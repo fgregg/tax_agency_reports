@@ -25,12 +25,6 @@ class ASPXScraper(scrapelib.Scraper):
         except IndexError:
             pass
 
-        try:
-            payload['__VIEWSTATEGENERATOR'] = page.xpath(
-                "//input[@name='__VIEWSTATEGENERATOR']/@value")[0]
-        except IndexError:
-            pass
-
         return(payload)
 
     def lxmlize(self,
