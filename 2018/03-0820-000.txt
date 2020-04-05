@@ -1,0 +1,55 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/20/19       TAX YEAR 2018                AGENCY TAX RATE REPORT
+                                                                                                                                           2018 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        1,670,725,439       COOK COUNTY    1,670,073,671
+ AGENCY 03-0820-000 VILLAGE OF   MT PROSPECT                      CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP     32,842,983       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               1,703,568,422       WILL
+                                                                                                                          KANE
+ 2017 AGGREGATE EXTENSION  2018 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-0820-001  VILLAGE OF MOUNT PROSPECT LIBRARY FUND                                                           LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV           1,670,073,671       TOTAL          1,670,073,671
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                         0    2            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 003  BONDS & INTEREST                          2,422,108    2    2,470,550      0.0000    2,470,550      0.1479                  2,470,550     0.1479
+                                                   48,442
+ 004  GARBAGE                                           0    2            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 006  POLICE PENSION                            3,412,934    2    3,481,193      0.0000    3,481,193      0.2084                  3,481,193     0.2084
+                                                   68,259
+ 007  FIRE PENSION                              3,150,839    2    3,213,856      0.0000    3,213,856      0.1924                  3,213,856     0.1924
+                                                   63,017
+ 008  I.M.R.F.                                          0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 009  STREET & BRIDGE                                   0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 013  FIRE PROTECTION                           4,950,563    2    5,049,574      0.0000    5,049,574      0.3024                  5,049,574     0.3024
+                                                   99,011
+ 014  POLICE PROTECTION                         4,776,562    2    4,872,093      0.0000    4,872,093      0.2917                  4,872,093     0.2917
+                                                   95,531
+ 024  WORKING CASH FUNDS                                0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 027  PURCHASE AGREEMENT                                0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 065  CAPITAL IMPROVEMENT                               0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 206  LIBRARY BUILDING NOTES                            0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+ AGENCY GRAND TOTAL                                              19,087,266               19,087,266       1.143                 19,087,266      1.143
+
+
+                                                                                                   2018 TAX EXTENSION GRAND TOTAL      19,088,942.06

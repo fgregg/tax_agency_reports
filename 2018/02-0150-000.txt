@@ -1,0 +1,41 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/20/19       TAX YEAR 2018                AGENCY TAX RATE REPORT
+                                                                                                                                           2018 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        4,542,308,932       COOK COUNTY    4,455,580,384
+ AGENCY 02-0150-000 TOWN NILES                                    CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP     14,317,105       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               4,556,626,037       WILL
+                                                                                                                          KANE
+ 2017 AGGREGATE EXTENSION  2018 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0210         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+          2,504,356       /    4,441,263,279          =      0.057                                                        KENDALL
+                                                                                                                          LA SALLE
+ CONNECTING 02-0150-002  GENERAL ASSISTANCE NILES                                                                         LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV           4,455,580,384       TOTAL          4,455,580,384
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 001  CORPORATE                                 2,186,855    3    2,252,461      0.2500    2,252,461      0.0506    2,178,778*    2,178,778     0.0489
+                                                   65,606
+ 008  I.M.R.F.                                          0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 016  SOCIAL SECURITY                                   0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 019  LIABILITY INSURANCE                               0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                  2,252,461                2,252,461       0.051    2,178,778     2,178,778      0.049
+ TOTAL NON CAP FUNDS                                                      0                        0      0.0000                          0     0.0000
+
+ AGENCY GRAND TOTAL                                               2,252,461                2,252,461       0.051    2,178,778     2,178,778      0.049
+                                                                                                       *CLERK'S REDUCTION FACTOR 96.6101%
+
+                                                                                                   2018 TAX EXTENSION GRAND TOTAL       2,183,234.39

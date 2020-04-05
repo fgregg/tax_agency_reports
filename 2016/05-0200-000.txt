@@ -1,0 +1,59 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/13/17       TAX YEAR 2016                                AGENCY TAX RATE REPORT
+                                                                                                                                           2016 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV       70,963,288,968       COOK COUNTY   74,016,506,351
+ AGENCY 05-0200-000 CHICAGO PARK DISTRICT                         CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE             4,491,907
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP    447,233,958       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL              71,410,522,926       WILL
+                                                                                                                          KANE
+ 2015 AGGREGATE EXTENSION  2016 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0070         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+        212,375,436       /   73,573,764,300          =      0.289                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV          74,020,998,258       TOTAL         74,020,998,258
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL      99.99% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 NO REDUCTION   COOK COUNTY
+ 001  CORPORATE                               158,061,859       158,061,859      0.6600  158,061,859    0.213537             *  158,046,053   0.213528
+                                                        0
+ 003  BONDS & INTEREST                         45,285,473        47,006,321      0.0000   47,006,321    0.063504                 47,001,620   0.063502
+                                                1,720,848
+ 019  LIABILITY INSURANCE                      10,811,086        10,811,086      0.0000   10,811,086    0.014605                 10,810,005   0.014605
+                                                        0
+ 041  AQUARIUM & MUSEUM                        27,664,491        27,664,491      0.1500   27,664,491    0.037374             *   27,661,725   0.037372
+                                                        0
+ 122  MUN. EMP. A & B                                   0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 124  PARK EMP. A & B                          17,264,938        17,264,938      0.0000   17,264,938    0.023324             *   17,263,212   0.023323
+                                                        0
+ 125  LABOR RET. A & B                                  0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 150  RENTAL BLDG COMM 1                                0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 170  PUBLIC BUILDING COMM                              0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 178  CORP. NOTES                                       0                 0      0.6600            0    0.000000                          0   0.000000
+                                                        0
+ 202  HANDICAPPED FUND                          7,000,000         7,000,000      0.0400    7,000,000    0.009457                  6,999,300   0.009456
+                                                        0
+ 217  OPERATION & MAINTENANCE PUB. BLDG. COM            0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 401  PUBLIC BUILDING COMMISSION                        0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                213,802,374              213,802,374       0.289                213,780,995      0.289
+ TOTAL NON CAP FUNDS                                             54,006,321               54,006,321    0.072961                 54,000,920   0.072958
+
+ AGENCY GRAND TOTAL                                             267,808,695              267,808,695       0.362                267,781,915      0.362
+
+
+                                        2016 NON CAP FUNDS TAX EXTENSION TOTAL      54,000,962.70  2016 TAX EXTENSION GRAND TOTAL     267,939,752.99

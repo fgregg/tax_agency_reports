@@ -1,0 +1,43 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/20/18       TAX YEAR 2017                                AGENCY TAX RATE REPORT
+                                                                                                                                           2017 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        2,461,599,597       COOK COUNTY    2,519,134,378
+ AGENCY 03-0470-000 VILLAGE OF   GLENVIEW                         CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP     21,652,855       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               2,483,252,452       WILL
+                                                                                                                          KANE
+ 2016 AGGREGATE EXTENSION  2017 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-0470-001  VILLAGE OF GLENVIEW LIBRARY FUND                                                                 LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV           2,519,134,378       TOTAL          2,519,134,378
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                 3,810,563    3    3,924,880      0.0000    3,924,880      0.1558                  3,924,880     0.1558
+                                                  114,317
+ 003  BONDS & INTEREST                          1,780,900    5    1,869,945      0.0000    1,869,945      0.0742                  1,869,945     0.0742
+                                                   89,045
+ 004  GARBAGE                                           0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 006  POLICE PENSION                            2,448,165    3    2,521,610      0.0000    2,521,610      0.1001                  2,521,610     0.1001
+                                                   73,445
+ 007  FIRE PENSION                              4,011,045    3    4,131,376      0.0000    4,131,376      0.1640                  4,131,376     0.1640
+                                                  120,331
+ 008  I.M.R.F.                                          0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 016  SOCIAL SECURITY                                   0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+ AGENCY GRAND TOTAL                                              12,447,811               12,447,811       0.495                 12,447,811      0.495
+
+
+                                                                                                   2017 TAX EXTENSION GRAND TOTAL      12,469,715.17

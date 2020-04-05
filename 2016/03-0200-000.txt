@@ -1,0 +1,51 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/13/17       TAX YEAR 2016                                AGENCY TAX RATE REPORT
+                                                                                                                                           2016 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV           65,660,912       COOK COUNTY       67,287,610
+ AGENCY 03-0200-000 VILLAGE OF   CALUMET PARK                     CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP              0       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                  65,660,912       WILL
+                                                                                                                          KANE
+ 2015 AGGREGATE EXTENSION  2016 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-0200-001  VILLAGE OF CALUMET PARK LIBRARY FUND                                                             LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV              67,287,610       TOTAL             67,287,610
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                 3,039,968    3    3,131,167      0.0000    3,131,167      4.6534                  3,131,167     4.6534
+                                                   91,199
+ 003  BONDS & INTEREST                            611,888    5      642,482      0.0000      642,482      0.9548                    642,482     0.9548
+                                                   30,594
+ 004  GARBAGE                                           0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 006  POLICE PENSION                              674,561    3      694,798      0.0000      694,798      1.0326                    694,798     1.0326
+                                                   20,237
+ 008  I.M.R.F.                                          0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 009  STREET & BRIDGE                                   0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 011  PLAY GROUNDS & REC                                0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 015  CIVIL DEFENSE                                     0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 016  SOCIAL SECURITY                                   0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 020  RECREATION                                        0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 027  PURCHASE AGREEMENT                                0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+ AGENCY GRAND TOTAL                                               4,468,447                4,468,447       6.641                  4,468,447      6.641
+
+
+                                                                                                   2016 TAX EXTENSION GRAND TOTAL       4,468,570.18

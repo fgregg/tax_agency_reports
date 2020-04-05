@@ -1,0 +1,43 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 10/16/09       TAX YEAR 2008                                AGENCY TAX RATE REPORT
+                                                                                                                                           2008 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        1,086,997,677       COOK COUNTY    1,207,295,211
+ AGENCY 08-0350-000 THORN CREEK BASIN SANITARY DISTRICT           CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP     10,239,093       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               1,097,236,770       WILL             312,675,548
+                                                                                                                          KANE
+      AGGREGATE EXTENSION  2008 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0410         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                  0       /                           =      0.000                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV           1,519,970,759       TOTAL          1,519,970,759
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL      79.42% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 NO REDUCTION   COOK COUNTY
+ 001  CORPORATE                                         0                 0      0.5000            0      0.0000                          0     0.0000
+                                                        0
+ 003  BONDS & INTEREST                                  0    5            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 008  I.M.R.F.                                          0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 010  PUBLIC BENEFIT                                    0                 0      0.0500            0      0.0000                          0     0.0000
+                                                        0
+ 025  CLORINATION OF SEWAGE                             0                 0      0.0300            0      0.0000                          0     0.0000
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                          0                        0       0.000                          0      0.000
+ TOTAL NON CAP FUNDS                                                      0                        0      0.0000                          0     0.0000
+
+ AGENCY GRAND TOTAL                                                       0                        0       0.000                          0      0.000
+
+
+                                                                                                   2008 TAX EXTENSION GRAND TOTAL               0.00

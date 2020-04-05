@@ -1,0 +1,43 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 07/08/08       TAX YEAR 2006                                AGENCY TAX RATE REPORT
+                                                                                                                                           2006 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        1,997,584,086       COOK COUNTY    2,120,188,975
+ AGENCY 02-0090-000 TOWN OF HANOVER                               CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP     97,815,261       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               2,095,399,347       WILL
+                                                                                                                          KANE
+ 2005 AGGREGATE EXTENSION  2006 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0340         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+          4,566,608       /    2,022,373,714          =      0.226                                                        KENDALL
+                                                                                                                          LA SALLE
+ CONNECTING 02-0090-002  GENERAL ASSISTANCE HANOVER                                                                       LIVINGSTON
+ AGENCIES   02-0090-004  COMM MENTAL HLTH FAC&SERV DIST
+                                                                         AGENCY OVERALL EAV           2,120,188,975       TOTAL          2,120,188,975
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 NO REDUCTION   COOK COUNTY
+ 001  CORPORATE                                 2,613,241    3    2,691,638      0.2500    2,691,638      0.1270                  2,691,638     0.1270
+                                                   78,397
+ 008  I.M.R.F.                                    135,894    3      139,971      0.0000      139,971      0.0066                    139,971     0.0066
+                                                    4,077
+ 016  SOCIAL SECURITY                             106,110    3      109,293      0.0000      109,293      0.0052                    109,293     0.0052
+                                                    3,183
+ 028  MENTAL HEALTH                                     0                 0      0.1500            0      0.0000                          0     0.0000
+                                                        0
+ 119  SENIOR CITIZENS SERVICES                    789,307    3      812,986      0.1500      812,986      0.0383                    812,986     0.0383
+                                                   23,679
+
+
+ TOTAL CAP FUNDS                                                  3,753,888                3,753,888       0.178                  3,753,888      0.178
+ TOTAL NON CAP FUNDS                                                      0                        0      0.0000                          0     0.0000
+
+ AGENCY GRAND TOTAL                                               3,753,888                3,753,888       0.178                  3,753,888      0.178
+
+
+                                                                                                   2006 TAX EXTENSION GRAND TOTAL       3,773,936.38

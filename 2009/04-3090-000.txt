@@ -1,0 +1,49 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 11/08/10       TAX YEAR 2009                                AGENCY TAX RATE REPORT
+                                                                                                                                           2009 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          990,449,811       COOK COUNTY    1,011,849,637
+ AGENCY 04-3090-000 JOLIET COMMUNITY COLLEGE DISTRICT 525         CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP     10,768,181       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               1,001,217,992       WILL          17,815,228,170
+                                                                                                                          KANE
+ 2008 AGGREGATE EXTENSION  2009 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0010         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY         1,930,677,916
+                                                          LIMITING RATE                                                   KANKAKEE             567,878
+         40,061,203       /   20,919,620,175          =      0.192                                                        KENDALL          420,300,593
+                                                                                                                          LA SALLE          13,072,938
+                                                                                                                          LIVINGSTON       116,237,372
+
+                                                                         AGENCY OVERALL EAV          21,307,934,504       TOTAL         21,307,934,504
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 016  SOCIAL SECURITY                                   0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 018  AUDITING                                     84,000    3       86,520      0.0050       86,520      0.0004       85,231        85,231     0.0004
+                                                    2,520
+ 019  LIABILITY INSURANCE                         832,000    3      856,960      0.0000      856,960      0.0040      809,701*      809,701     0.0038
+                                                   24,960
+ 052  EDUCATION                                26,540,000    3   27,336,200      0.7500   27,336,200      0.1283   26,251,375*   26,251,375     0.1232
+                                                  796,200
+ 053  BUILDING                                 12,740,000    3   13,122,200      0.1000   13,122,200      0.0616   12,592,989*   12,592,989     0.0591
+                                                  382,200
+ 054  BUILDING BONDS (BONDS & INT. SCHOOL)      5,007,742    5    5,258,129      0.0000    5,258,129      0.0247                  5,258,129     0.0247
+                                                  250,387
+ 056  LIFE SAFETY                               1,072,000    3    1,104,160      0.1000    1,104,160      0.0052    1,065,396*    1,065,396     0.0050
+                                                   32,160
+ 251  WORKMEN'S COMPENSATION                            0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                 42,506,040               42,506,040       0.200   40,804,692    40,804,692      0.192
+ TOTAL NON CAP FUNDS                                              5,258,129                5,258,129      0.0247                  5,258,129     0.0247
+
+ AGENCY GRAND TOTAL                                              47,764,169               47,764,169       0.225   40,804,692    46,062,821      0.217
+                                                                                                       *CLERK'S REDUCTION FACTOR 96.0000%
+
+                                        2009 NON CAP FUNDS TAX EXTENSION TOTAL         249,926.86  2009 TAX EXTENSION GRAND TOTAL       2,195,713.71

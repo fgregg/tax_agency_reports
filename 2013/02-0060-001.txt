@@ -1,0 +1,33 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 07/10/14       TAX YEAR 2013                                AGENCY TAX RATE REPORT
+                                                                                                                                           2013 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          625,085,696       COOK COUNTY      585,841,689
+ AGENCY 02-0060-001 TOWN OF CICERO LIBRARY FUND                   CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP        580,727       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 625,666,423       WILL
+                                                                                                                          KANE
+ 2012 AGGREGATE EXTENSION  2013 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 02-0060-000  TOWN   CICERO                                                                                    LIVINGSTON
+ AGENCIES   02-0060-002  GENERAL ASSISTANCE   CICERO
+            02-0060-004  CICERO COMM MENTAL HLTH FD                      AGENCY OVERALL EAV             585,841,689       TOTAL            585,841,689
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                         0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 005  LIBRARY                                   1,829,293    3    1,884,172      0.0000    1,884,172      0.3216                  1,884,172     0.3216
+                                                   54,879
+
+ AGENCY GRAND TOTAL                                               1,884,172                1,884,172       0.322                  1,884,172      0.322
+
+
+                                                                                                   2013 TAX EXTENSION GRAND TOTAL       1,886,410.24

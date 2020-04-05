@@ -1,0 +1,53 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 09/06/08       TAX YEAR 2007                                AGENCY TAX RATE REPORT
+                                                                                                                                           2007 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV       69,473,229,020       COOK COUNTY   73,605,314,512
+ AGENCY 04-3030-000 CHICAGO COMMUNITY COLLEGE DISTRICT 508        CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE             5,841,665
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP    908,332,508       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL              70,381,561,528       WILL
+                                                                                                                          KANE
+ 2006 AGGREGATE EXTENSION  2007 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0250         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+        115,758,490       /   72,702,823,669          =      0.160                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV          73,611,156,177       TOTAL         73,611,156,177
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL      99.99% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 NO REDUCTION   COOK COUNTY
+ 003  BONDS & INTEREST                                  0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 018  AUDITING                                          0                 0      0.0050            0    0.000000                          0   0.000000
+                                                        0
+ 019  LIABILITY INSURANCE                       6,575,000         6,575,000      0.0000    6,575,000    0.008932                  6,574,343   0.008932
+                                                        0
+ 052  EDUCATION                                79,950,000        79,950,000      0.7500   79,950,000    0.108611             *   79,942,005   0.108609
+                                                        0
+ 053  BUILDING                                 29,975,000        29,975,000      0.1000   29,975,000    0.040721             *   29,972,003   0.040720
+                                                        0
+ 056  LIFE SAFETY                                       0                 0      0.1000            0    0.000000                          0   0.000000
+                                                        0
+ 140  RENTAL PUBLIC BLDG COMM 1                         0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 170  PUBLIC BUILDING COMM                              0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 217  OPERATION & MAINTENANCE PUB. BLDG. COM            0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 401  PUBLIC BUILDING COMMISSION                        0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                116,500,000              116,500,000       0.159                116,488,351      0.159
+ TOTAL NON CAP FUNDS                                                      0                        0    0.000000                          0   0.000000
+
+ AGENCY GRAND TOTAL                                             116,500,000              116,500,000       0.159                116,488,351      0.159
+
+
+                                                                                                   2007 TAX EXTENSION GRAND TOTAL     117,032,450.07

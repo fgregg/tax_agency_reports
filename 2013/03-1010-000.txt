@@ -1,0 +1,51 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 07/10/14       TAX YEAR 2013                                AGENCY TAX RATE REPORT
+                                                                                                                                           2013 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        1,595,870,043       COOK COUNTY    1,311,612,630
+ AGENCY 03-1010-000 CITY OF   PARK RIDGE                          CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      5,178,755       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               1,601,048,798       WILL
+                                                                                                                          KANE
+ 2012 AGGREGATE EXTENSION  2013 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-1010-001  CITY OF PARK RIDGE LIBRARY FUND                                                                  LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV           1,311,612,630       TOTAL          1,311,612,630
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                 4,004,282         4,073,532      0.0000    4,073,532      0.3106                  4,073,532     0.3106
+                                                   69,250
+ 003  BONDS & INTEREST                          1,341,085         1,364,278      0.0000    1,364,278      0.1040                  1,364,278     0.1040
+                                                   23,193
+ 004  GARBAGE                                   3,475,395         3,535,498      0.0000    3,535,498      0.2696                  3,535,498     0.2696
+                                                   60,103
+ 006  POLICE PENSION                            1,667,295         1,696,129      0.0000    1,696,129      0.1293                  1,696,129     0.1293
+                                                   28,834
+ 007  FIRE PENSION                              1,598,040         1,625,677      0.0000    1,625,677      0.1239                  1,625,677     0.1239
+                                                   27,637
+ 008  I.M.R.F.                                    778,393           791,855      0.0000      791,855      0.0604                    791,855     0.0604
+                                                   13,462
+ 009  STREET & BRIDGE                                   0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 010  PUBLIC BENEFIT                                    0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 016  SOCIAL SECURITY                             849,156           863,841      0.0000      863,841      0.0659                    863,841     0.0659
+                                                   14,685
+ 027  PURCHASE AGREEMENT                                0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 178  CORP. NOTES                                       0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+ AGENCY GRAND TOTAL                                              13,950,810               13,950,810       1.064                 13,950,810      1.064
+
+
+                                                                                                   2013 TAX EXTENSION GRAND TOTAL      13,955,558.38

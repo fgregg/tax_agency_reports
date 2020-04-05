@@ -1,0 +1,53 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 07/08/08       TAX YEAR 2006                                AGENCY TAX RATE REPORT
+                                                                                                                                           2006 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          265,758,238       COOK COUNTY      293,881,496
+ AGENCY 06-0040-000 BARTLETT PUBLIC LIBRARY DISTRICT              CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE           779,491,980
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP     27,623,404       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 293,381,642       WILL
+                                                                                                                          KANE
+ 2005 AGGREGATE EXTENSION  2006 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0340         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+          2,260,838       /    1,035,877,222          =      0.219                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV           1,073,373,476       TOTAL          1,073,373,476
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 001  CORPORATE                                 2,846,600    3    2,931,998      0.6000    2,931,998      0.2732    2,019,015*    2,019,015     0.1881
+                                                   85,398
+ 003  BONDS & INTEREST                            372,355    5      390,973      0.0000      390,973      0.0364                    390,973     0.0364
+                                                   18,618
+ 008  I.M.R.F.                                    130,000    3      133,900      0.0000      133,900      0.0125       92,310*       92,310     0.0086
+                                                    3,900
+ 016  SOCIAL SECURITY                             110,000    3      113,300      0.0000      113,300      0.0106       78,356*       78,356     0.0073
+                                                    3,300
+ 018  AUDITING                                     10,000    3       10,300      0.0050       10,300      0.0010        7,513*        7,513     0.0007
+                                                      300
+ 019  LIABILITY INSURANCE                          10,000    3       10,300      0.0000       10,300      0.0010        7,513*        7,513     0.0007
+                                                      300
+ 024  WORKING CASH FUNDS                                0    3            0      0.0500            0      0.0000                          0     0.0000
+                                                        0
+ 251  WORKMEN'S COMPENSATION                       10,000    3       10,300      0.0000       10,300      0.0010        7,513*        7,513     0.0007
+                                                      300
+ 254  LIBRARY BUILDING AND SITES                  185,000    3      190,550      0.0200      190,550      0.0178      132,024*      132,024     0.0123
+                                                    5,550
+ 262  UNEMPLOYMENT INSURANCE                        8,000    3        8,240      0.0000        8,240      0.0008        6,440*        6,440     0.0006
+                                                      240
+
+
+ TOTAL CAP FUNDS                                                  3,408,888                3,408,888       0.318    2,350,684     2,350,684      0.219
+ TOTAL NON CAP FUNDS                                                390,973                  390,973      0.0364                    390,973     0.0364
+
+ AGENCY GRAND TOTAL                                               3,799,861                3,799,861       0.355    2,350,684     2,741,657      0.256
+                                                                                                       *CLERK'S REDUCTION FACTOR 68.8679%
+
+                                        2006 NON CAP FUNDS TAX EXTENSION TOTAL         106,972.86  2006 TAX EXTENSION GRAND TOTAL         752,336.63

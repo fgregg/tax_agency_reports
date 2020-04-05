@@ -1,0 +1,97 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 09/22/11       TAX YEAR 2010                                AGENCY TAX RATE REPORT
+                                                                                                                                           2010 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          915,088,546       COOK COUNTY      842,914,824
+ AGENCY 03-0450-000 VILLAGE OF   FRANKLIN PARK                    CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      1,800,913       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 916,889,459       WILL
+                                                                                                                          KANE
+ 2009 AGGREGATE EXTENSION  2010 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0270         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+         11,160,076       /      841,113,911          =      1.327                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV             842,914,824       TOTAL            842,914,824
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 NO REDUCTION   COOK COUNTY
+ 001  CORPORATE                                 2,961,275    3    3,050,113      0.4375    3,050,113      0.3619                  3,050,113     0.3619
+                                                   88,838
+ 003  BONDS & INTEREST                          3,138,260    5    3,295,173      0.0000    3,295,173      0.3909                  3,295,173     0.3909
+                                                  156,913
+ 004  GARBAGE                                           0    3            0      0.2000            0      0.0000                          0     0.0000
+                                                        0
+ 006  POLICE PENSION                            1,171,000    3    1,206,130      0.0000    1,206,130      0.1431                  1,206,130     0.1431
+                                                   35,130
+ 007  FIRE PENSION                              1,202,000    3    1,238,060      0.0000    1,238,060      0.1469                  1,238,060     0.1469
+                                                   36,060
+ 008  I.M.R.F.                                          0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 009  STREET & BRIDGE                           1,151,725    3    1,186,277      0.1000      842,915      0.1000                    842,915     0.1000
+                                                   34,552
+ 013  FIRE PROTECTION                           1,745,000    3    1,797,350      0.6000    1,797,350      0.2132                  1,797,350     0.2132
+                                                   52,350
+ 014  POLICE PROTECTION                         1,757,000    3    1,809,710      0.6000    1,809,710      0.2147                  1,809,710     0.2147
+                                                   52,710
+ 015  CIVIL DEFENSE                                     0    3            0      0.0500            0      0.0000                          0     0.0000
+                                                        0
+ 016  SOCIAL SECURITY                                   0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 018  AUDITING                                          0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 019  LIABILITY INSURANCE                       1,070,000    3    1,102,100      0.0000    1,102,100      0.1307                  1,102,100     0.1307
+                                                   32,100
+ 022  STREET LIGHTING                                   0    3            0      0.0500            0      0.0000                          0     0.0000
+                                                        0
+ 023  CROSSING GUARDS                                   0    3            0      0.0200            0      0.0000                          0     0.0000
+                                                        0
+
+
+
+ 
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 09/22/11       TAX YEAR 2010                                AGENCY TAX RATE REPORT
+                                                                                                                                           2010 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          915,088,546       COOK COUNTY      842,914,824
+ AGENCY 03-0450-000 VILLAGE OF   FRANKLIN PARK                    CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      1,800,913       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 916,889,459       WILL
+                                                                                                                          KANE
+ 2009 AGGREGATE EXTENSION  2010 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0270         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+         11,160,076       /      841,113,911          =      1.327                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV             842,914,824       TOTAL            842,914,824
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 NO REDUCTION   COOK COUNTY
+ 024  WORKING CASH FUNDS                                0    3            0      0.0500            0      0.0000                          0     0.0000
+                                                        0
+ 091  SEWER MAINTENANCE                                 0    3            0      0.1000            0      0.0000                          0     0.0000
+                                                        0
+ 253  WATER AND SEWAGE                                  0    3            0      0.0500            0      0.0000                          0     0.0000
+                                                        0
+ 290  CBOE MEDICARE                                     0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                 11,389,740               11,046,378       1.311                 11,046,378      1.311
+ TOTAL NON CAP FUNDS                                              3,295,173                3,295,173      0.3909                  3,295,173     0.3909
+
+ AGENCY GRAND TOTAL                                              14,684,913               14,341,551       1.702                 14,341,551      1.702
+
+
+                                        2010 NON CAP FUNDS TAX EXTENSION TOTAL       3,294,954.05  2010 TAX EXTENSION GRAND TOTAL      14,346,410.30

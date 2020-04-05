@@ -1,0 +1,41 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 11/08/10       TAX YEAR 2009                                AGENCY TAX RATE REPORT
+                                                                                                                                           2009 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        1,444,946,897       COOK COUNTY    1,407,936,458
+ AGENCY 02-0270-000 TOWN   STICKNEY                               CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP     35,413,059       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               1,480,359,956       WILL
+                                                                                                                          KANE
+ 2008 AGGREGATE EXTENSION  2009 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0010         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+          5,263,798       /    1,372,523,399          =      0.384                                                        KENDALL
+                                                                                                                          LA SALLE
+ CONNECTING 02-0270-002  GENERAL ASSISTANCE   STICKNEY                                                                    LIVINGSTON
+ AGENCIES   02-0270-004  STICKNEY PUBLIC HEALTH DISTRICT
+                                                                         AGENCY OVERALL EAV           1,407,936,458       TOTAL          1,407,936,458
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 NO REDUCTION   COOK COUNTY
+ 001  CORPORATE                                 2,535,100         2,535,100      0.2500    2,535,100      0.1801                  2,535,100     0.1801
+                                                        0
+ 008  I.M.R.F.                                          0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 018  AUDITING                                          0    3            0      0.0050            0      0.0000                          0     0.0000
+                                                        0
+ 019  LIABILITY INSURANCE                               0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                  2,535,100                2,535,100       0.181                  2,535,100      0.181
+ TOTAL NON CAP FUNDS                                                      0                        0      0.0000                          0     0.0000
+
+ AGENCY GRAND TOTAL                                               2,535,100                2,535,100       0.181                  2,535,100      0.181
+
+
+                                                                                                   2009 TAX EXTENSION GRAND TOTAL       2,548,364.99

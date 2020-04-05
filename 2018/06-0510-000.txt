@@ -1,0 +1,51 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/20/19       TAX YEAR 2018                AGENCY TAX RATE REPORT
+                                                                                                                                           2018 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          157,612,883       COOK COUNTY      152,113,406
+ AGENCY 06-0510-000 SUMMIT PUBLIC LIBRARY DISTRICT                CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      1,125,910       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 158,738,793       WILL
+                                                                                                                          KANE
+ 2017 AGGREGATE EXTENSION  2018 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0210         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+            330,053       /      150,987,496          =      0.219                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV             152,113,406       TOTAL            152,113,406
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 001  CORPORATE                                   315,985   10      347,584      0.6000      347,584      0.2285      313,201*      313,201     0.2059
+                                                   31,599
+ 003  BONDS & INTEREST                            506,772   10      557,449      0.0000      557,449      0.3665                    557,449     0.3665
+                                                   50,677
+ 008  I.M.R.F.                                      8,460   10        9,306      0.0000        9,306      0.0061        8,366*        8,366     0.0055
+                                                      846
+ 016  SOCIAL SECURITY                              10,305   10       11,336      0.0000       11,336      0.0075       10,343*       10,343     0.0068
+                                                    1,031
+ 018  AUDITING                                          0    3            0      0.0050            0      0.0000                          0     0.0000
+                                                        0
+ 019  LIABILITY INSURANCE                               0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 024  WORKING CASH FUNDS                                0    3            0      0.0500            0      0.0000                          0     0.0000
+                                                        0
+ 254  LIBRARY BUILDING AND SITES                        0    3            0      0.0200            0      0.0000                          0     0.0000
+                                                        0
+ 262  UNEMPLOYMENT INSURANCE                            0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                    368,226                  368,226       0.243      331,910       331,910      0.219
+ TOTAL NON CAP FUNDS                                                557,449                  557,449      0.3665                    557,449     0.3665
+
+ AGENCY GRAND TOTAL                                                 925,675                  925,675       0.609      331,910       889,359      0.585
+                                                                                                       *CLERK'S REDUCTION FACTOR 90.1234%
+
+                                        2018 NON CAP FUNDS TAX EXTENSION TOTAL         557,495.63  2018 TAX EXTENSION GRAND TOTAL         889,863.43

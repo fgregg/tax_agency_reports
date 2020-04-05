@@ -1,0 +1,55 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 01/09/14       TAX YEAR 2012                                AGENCY TAX RATE REPORT
+                                                                                                                                           2012 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        2,343,747,879       COOK COUNTY    2,162,169,011
+ AGENCY 03-0950-000 VILLAGE OF   ORLAND PARK                      CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      8,344,835       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               2,352,092,714       WILL              21,105,042
+                                                                                                                          KANE
+ 2011 AGGREGATE EXTENSION  2012 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-0950-001  VILLAGE OF ORLAND PARK LIBRARY FUND                                                              LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV           2,183,274,053       TOTAL          2,183,274,053
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                 2,668,775    3    2,748,838      0.0000    2,748,838      0.1259                  2,748,838     0.1259
+                                                   80,063
+ 003  BONDS & INTEREST                          4,261,415    5    4,474,486      0.0000    4,474,486      0.2049                  4,474,486     0.2049
+                                                  213,071
+ 004  GARBAGE                                           0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 006  POLICE PENSION                            2,079,998    3    2,142,398      0.0000    2,142,398      0.0981                  2,142,398     0.0981
+                                                   62,400
+ 008  I.M.R.F.                                  1,923,513    3    1,981,218      0.0000    1,981,218      0.0907                  1,981,218     0.0907
+                                                   57,705
+ 011  PLAY GROUNDS & REC                        1,068,021    3    1,100,062      0.0000    1,100,062      0.0504                  1,100,062     0.0504
+                                                   32,041
+ 015  CIVIL DEFENSE                                     0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 016  SOCIAL SECURITY                           1,423,797    3    1,466,511      0.0000    1,466,511      0.0672                  1,466,511     0.0672
+                                                   42,714
+ 018  AUDITING                                          0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 019  LIABILITY INSURANCE                               0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 020  RECREATION                                        0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 027  PURCHASE AGREEMENT                                0    5            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 262  UNEMPLOYMENT INSURANCE                            0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+ AGENCY GRAND TOTAL                                              13,913,513               13,913,513       0.638                 13,913,513      0.638
+
+
+                                                                                                   2012 TAX EXTENSION GRAND TOTAL      13,794,638.29

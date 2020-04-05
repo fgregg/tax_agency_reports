@@ -1,0 +1,99 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 11/08/10       TAX YEAR 2009                                AGENCY TAX RATE REPORT
+                                                                                                                                           2009 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV       80,977,543,020       COOK COUNTY   84,586,807,689
+ AGENCY 03-0210-000 CITY OF CHICAGO                               CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE             5,478,653
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP  1,053,588,344       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL              82,031,131,364       WILL
+                                                                                                                          KANE
+ 2008 AGGREGATE EXTENSION  2009 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-0210-001  CITY OF CHICAGO LIBRARY FUND                                                                     LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV          84,592,286,342       TOTAL         84,592,286,342
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL      99.99% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                         0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 003  BONDS & INTEREST                        388,098,534       404,269,309      0.0000  404,269,309    0.477903                404,228,882   0.477886
+                                               16,170,775
+ 120  POLICE A & B                            141,741,000       141,741,000      0.0000  141,741,000    0.167558                141,726,826   0.167552
+                                                        0
+ 121  FIRE A & B                               66,140,000        66,140,000      0.0000   66,140,000    0.078187                 66,133,386   0.078184
+                                                        0
+ 122  MUN. EMP. A & B                         124,326,000       124,326,000      0.0000  124,326,000    0.146971                124,313,567   0.146966
+                                                        0
+ 123  L. R. B. A & B                                    0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 124  PARK EMP. A & B                                   0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 125  LABOR RET. A & B                         13,327,000        13,327,000      0.0000   13,327,000    0.015754                 13,325,667   0.015754
+                                                        0
+ 150  RENTAL BLDG COMM 1                                0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 178  CORP. NOTES                                       0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 179  CITY RELIEF                                       0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 289  NOTE REDEMPTION & INTEREST FUND                   0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 292  CORPORATE NOTES 1990C&D                           0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 298  CORPORATE NOTES 1988C                             0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 304  CORPORATE NOTES 1991C                             0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+
+
+
+ 
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 11/08/10       TAX YEAR 2009                                AGENCY TAX RATE REPORT
+                                                                                                                                           2009 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV       80,977,543,020       COOK COUNTY   84,586,807,689
+ AGENCY 03-0210-000 CITY OF CHICAGO                               CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE             5,478,653
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP  1,053,588,344       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL              82,031,131,364       WILL
+                                                                                                                          KANE
+ 2008 AGGREGATE EXTENSION  2009 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-0210-001  CITY OF CHICAGO LIBRARY FUND                                                                     LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV          84,592,286,342       TOTAL         84,592,286,342
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL      99.99% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 306  CORPORATE NOTES 1992C                             0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 308  CORPORATE NOTES 1993C                             0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 309  CORPORATE NOTES 1994C                             0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 316  CORPORATE NOTES 1995C                             0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 317  1996 EQUIPMENT NOTES                              0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 318  1997 EQUIPMENT NOTES                              0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 319  1998 EQUIPMENT NOTES                              0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+
+ AGENCY GRAND TOTAL                                             749,803,309              749,803,309       0.887                749,728,328      0.887
+
+
+                                                                                                   2009 TAX EXTENSION GRAND TOTAL     750,284,984.20

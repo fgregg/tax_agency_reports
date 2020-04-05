@@ -1,0 +1,43 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/13/16       TAX YEAR 2015                                AGENCY TAX RATE REPORT
+                                                                                                                                           2015 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        1,118,564,844       COOK COUNTY    1,088,311,177
+ AGENCY 02-0230-000 TOWN   RICH                                   CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      8,614,894       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               1,127,179,738       WILL
+                                                                                                                          KANE
+ 2012 AGGREGATE EXTENSION  2015 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0080         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+          4,308,379       /    1,079,696,283          =      0.399                                                        KENDALL
+                                                                                                                          LA SALLE
+ CONNECTING 02-0230-002  GENERAL ASSISTANCE   RICH                                                                        LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV           1,088,311,177       TOTAL          1,088,311,177
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 NO REDUCTION   COOK COUNTY
+ 001  CORPORATE                                 2,825,000    4    2,938,000      0.2500    2,720,778      0.2500                  2,720,778     0.2500
+                                                  113,000
+ 008  I.M.R.F.                                    275,000    4      286,000      0.0000      286,000      0.0263                    286,000     0.0263
+                                                   11,000
+ 016  SOCIAL SECURITY                             185,000    4      192,400      0.0000      192,400      0.0177                    192,400     0.0177
+                                                    7,400
+ 019  LIABILITY INSURANCE                          19,000    4       19,760      0.0000       19,760      0.0018                     19,760     0.0018
+                                                      760
+ 178  CORP. NOTES                                       0    3            0      0.2500            0      0.0000                          0     0.0000
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                  3,436,160                3,218,938       0.296                  3,218,938      0.296
+ TOTAL NON CAP FUNDS                                                      0                        0      0.0000                          0     0.0000
+
+ AGENCY GRAND TOTAL                                               3,436,160                3,218,938       0.296                  3,218,938      0.296
+
+
+                                                                                                   2015 TAX EXTENSION GRAND TOTAL       3,221,401.08

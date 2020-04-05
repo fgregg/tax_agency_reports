@@ -1,0 +1,41 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/20/18       TAX YEAR 2017                                AGENCY TAX RATE REPORT
+                                                                                                                                           2017 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          955,844,758       COOK COUNTY    1,102,471,412
+ AGENCY 02-0270-000 TOWN STICKNEY                                 CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      6,510,262       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 962,355,020       WILL
+                                                                                                                          KANE
+ 2016 AGGREGATE EXTENSION  2017 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0210         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+          5,951,944       /    1,095,961,150          =      0.544                                                        KENDALL
+                                                                                                                          LA SALLE
+ CONNECTING 02-0270-002  GENERAL ASSISTANCE STICKNEY                                                                      LIVINGSTON
+ AGENCIES   02-0270-004  STICKNEY PUBLIC HEALTH DISTRICT
+                                                                         AGENCY OVERALL EAV           1,102,471,412       TOTAL          1,102,471,412
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 NO REDUCTION   COOK COUNTY
+ 001  CORPORATE                                 2,395,849         2,395,849      0.2500    2,395,849      0.2173                  2,395,849     0.2173
+                                                        0
+ 008  I.M.R.F.                                    390,000           390,000      0.0000      390,000      0.0354                    390,000     0.0354
+                                                        0
+ 018  AUDITING                                          0    3            0      0.0050            0      0.0000                          0     0.0000
+                                                        0
+ 019  LIABILITY INSURANCE                         480,000           480,000      0.0000      480,000      0.0435                    480,000     0.0435
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                  3,265,849                3,265,849       0.297                  3,265,849      0.297
+ TOTAL NON CAP FUNDS                                                      0                        0      0.0000                          0     0.0000
+
+ AGENCY GRAND TOTAL                                               3,265,849                3,265,849       0.297                  3,265,849      0.297
+
+
+                                                                                                   2017 TAX EXTENSION GRAND TOTAL       3,274,340.09

@@ -1,0 +1,51 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 09/22/11       TAX YEAR 2010                                AGENCY TAX RATE REPORT
+                                                                                                                                           2010 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          567,377,253       COOK COUNTY      559,790,853
+ AGENCY 03-0680-000 VILLAGE OF LANSING                            CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP        216,103       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 567,593,356       WILL
+                                                                                                                          KANE
+ 2009 AGGREGATE EXTENSION  2010 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-0680-001  VILLAGE OF LANSING LIBRARY FUND                                                                  LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV             559,790,853       TOTAL            559,790,853
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                 2,145,000    3    2,209,350      0.0000    2,209,350      0.3947                  2,209,350     0.3947
+                                                   64,350
+ 003  BONDS & INTEREST                            351,078    5      368,632      0.0000      368,632      0.0659                    368,632     0.0659
+                                                   17,554
+ 004  GARBAGE                                           0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 006  POLICE PENSION                            2,325,493    3    2,395,258      0.0000    2,395,258      0.4279                  2,395,258     0.4279
+                                                   69,765
+ 007  FIRE PENSION                                860,409    3      886,221      0.0000      886,221      0.1583                    886,221     0.1583
+                                                   25,812
+ 008  I.M.R.F.                                    398,700    3      410,661      0.0000      410,661      0.0734                    410,661     0.0734
+                                                   11,961
+ 009  STREET & BRIDGE                                   0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 010  PUBLIC BENEFIT                                    0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 016  SOCIAL SECURITY                             434,200    3      447,226      0.0000      447,226      0.0799                    447,226     0.0799
+                                                   13,026
+ 023  CROSSING GUARDS                                   0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 253  WATER AND SEWAGE                                  0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+ AGENCY GRAND TOTAL                                               6,717,348                6,717,348       1.201                  6,717,348      1.201
+
+
+                                                                                                   2010 TAX EXTENSION GRAND TOTAL       6,723,088.14

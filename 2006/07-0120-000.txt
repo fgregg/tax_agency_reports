@@ -1,0 +1,39 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 07/08/08       TAX YEAR 2006                                AGENCY TAX RATE REPORT
+                                                                                                                                           2006 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV            9,182,258       COOK COUNTY        9,568,430
+ AGENCY 07-0120-000 FOREST VIEW FIRE PROTECTION DIST              CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP              0       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                   9,182,258       WILL
+                                                                                                                          KANE
+ 2005 AGGREGATE EXTENSION  2006 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0340         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+             30,192       /        9,568,430          =      0.316                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV               9,568,430       TOTAL              9,568,430
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 001  CORPORATE                                    23,920    3       24,638      0.4000       24,638      0.2575       23,959*       23,959     0.2504
+                                                      718
+ 003  BONDS & INTEREST                                  0    5            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 034  AMBULANCE SERVICE                             6,240    3        6,427      0.3000        6,427      0.0672        6,248*        6,248     0.0653
+                                                      187
+
+
+ TOTAL CAP FUNDS                                                     31,065                   31,065       0.325       30,207        30,207      0.316
+ TOTAL NON CAP FUNDS                                                      0                        0      0.0000                          0     0.0000
+
+ AGENCY GRAND TOTAL                                                  31,065                   31,065       0.325       30,207        30,207      0.316
+                                                                                                       *CLERK'S REDUCTION FACTOR 97.2307%
+
+                                                                                                   2006 TAX EXTENSION GRAND TOTAL          30,236.24

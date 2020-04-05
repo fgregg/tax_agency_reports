@@ -1,0 +1,91 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/18/15       TAX YEAR 2014                                AGENCY TAX RATE REPORT
+                                                                                                                                           2014 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          548,419,956       COOK COUNTY      540,382,619
+ AGENCY 03-0770-000 VILLAGE OF   MELROSE PARK                     CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP        930,289       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 549,350,245       WILL
+                                                                                                                          KANE
+ 2012 AGGREGATE EXTENSION  2014 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-0770-001  VILLAGE OF MELROSE PARK LIBRARY FUND                                                             LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV             540,382,619       TOTAL            540,382,619
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                 2,841,055    3    2,926,287      0.0000    2,926,287      0.5415                  2,926,287     0.5415
+                                                   85,232
+ 003  BONDS & INTEREST                          1,179,204    5    1,238,164      0.0000    1,238,164      0.2291                  1,238,164     0.2291
+                                                   58,960
+ 004  GARBAGE                                   1,780,000    3    1,833,400      0.0000    1,833,400      0.3393                  1,833,400     0.3393
+                                                   53,400
+ 005  LIBRARY                                           0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 006  POLICE PENSION                              797,000    3      820,910      0.0000      820,910      0.1519                    820,910     0.1519
+                                                   23,910
+ 007  FIRE PENSION                              1,046,000    3    1,077,380      0.0000    1,077,380      0.1994                  1,077,380     0.1994
+                                                   31,380
+ 008  I.M.R.F.                                    257,962    3      265,701      0.0000      265,701      0.0492                    265,701     0.0492
+                                                    7,739
+ 009  STREET & BRIDGE                             997,141    3    1,027,055      0.0000    1,027,055      0.1901                  1,027,055     0.1901
+                                                   29,914
+ 010  PUBLIC BENEFIT                                    0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 013  FIRE PROTECTION                             810,000    3      834,300      0.0000      834,300      0.1544                    834,300     0.1544
+                                                   24,300
+ 014  POLICE PROTECTION                           588,808    3      606,472      0.0000      606,472      0.1122                    606,472     0.1122
+                                                   17,664
+ 015  CIVIL DEFENSE                                61,525    3       63,371      0.0000       63,371      0.0117                     63,371     0.0117
+                                                    1,846
+ 016  SOCIAL SECURITY                             594,299    3      612,128      0.0000      612,128      0.1133                    612,128     0.1133
+                                                   17,829
+ 018  AUDITING                                    100,000    3      103,000      0.0000      103,000      0.0191                    103,000     0.0191
+                                                    3,000
+ 019  LIABILITY INSURANCE                         666,000    3      685,980      0.0000      685,980      0.1269                    685,980     0.1269
+                                                   19,980
+
+
+
+ 
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/18/15       TAX YEAR 2014                                AGENCY TAX RATE REPORT
+                                                                                                                                           2014 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          548,419,956       COOK COUNTY      540,382,619
+ AGENCY 03-0770-000 VILLAGE OF   MELROSE PARK                     CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP        930,289       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 549,350,245       WILL
+                                                                                                                          KANE
+ 2012 AGGREGATE EXTENSION  2014 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-0770-001  VILLAGE OF MELROSE PARK LIBRARY FUND                                                             LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV             540,382,619       TOTAL            540,382,619
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 023  CROSSING GUARDS                              45,042    3       46,393      0.0000       46,393      0.0086                     46,393     0.0086
+                                                    1,351
+ 224  TAX ANTICIPATION NOTES                            0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 400  LIMITED BONDS                               601,998    5      632,098      0.0000      632,098      0.1170                    632,098     0.1170
+                                                   30,100
+
+ AGENCY GRAND TOTAL                                              12,772,639               12,772,639       2.364                 12,772,639      2.364
+
+
+                                                                                                   2014 TAX EXTENSION GRAND TOTAL      12,774,645.11

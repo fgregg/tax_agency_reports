@@ -1,0 +1,57 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/13/17       TAX YEAR 2016                                AGENCY TAX RATE REPORT
+                                                                                                                                           2016 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        2,447,074,262       COOK COUNTY    2,896,943,647
+ AGENCY 03-0020-000 VILLAGE OF ARLINGTON HEIGHTS                  CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP     19,850,172       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               2,466,924,434       WILL
+                                                                                                                          KANE
+ 2015 AGGREGATE EXTENSION  2016 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-0020-001  VILLAGE OF ARLINGTON HTS LIBRARY FUND                                                            LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV           2,896,943,647       TOTAL          2,896,943,647
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                         0    1            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 003  BONDS & INTEREST                          6,803,950    1    6,871,990      0.0000    6,871,990      0.2372                  6,871,990     0.2372
+                                                   68,040
+ 005  LIBRARY                                           0    1            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 006  POLICE PENSION                            3,994,000    1    4,033,940      0.0000    4,033,940      0.1392                  4,033,940     0.1392
+                                                   39,940
+ 007  FIRE PENSION                              4,889,000    1    4,937,890      0.0000    4,937,890      0.1705                  4,937,890     0.1705
+                                                   48,890
+ 008  I.M.R.F.                                  1,737,100    1    1,754,471      0.0000    1,754,471      0.0606                  1,754,471     0.0606
+                                                   17,371
+ 010  PUBLIC BENEFIT                                    0    1            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 013  FIRE PROTECTION                           4,961,300    1    5,010,913      0.0000    5,010,913      0.1730                  5,010,913     0.1730
+                                                   49,613
+ 014  POLICE PROTECTION                         4,961,300    1    5,010,913      0.0000    5,010,913      0.1730                  5,010,913     0.1730
+                                                   49,613
+ 016  SOCIAL SECURITY                           1,351,300    1    1,364,813      0.0000    1,364,813      0.0471                  1,364,813     0.0471
+                                                   13,513
+ 027  PURCHASE AGREEMENT                                0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 065  CAPITAL IMPROVEMENT                       5,200,000    1    5,252,000      0.0000    5,252,000      0.1813                  5,252,000     0.1813
+                                                   52,000
+ 253  WATER AND SEWAGE                                  0    1            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 295  WATER FUND                                        0    1            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+ AGENCY GRAND TOTAL                                              34,236,930               34,236,930       1.182                 34,236,930      1.182
+
+
+                                                                                                   2016 TAX EXTENSION GRAND TOTAL      34,241,873.91

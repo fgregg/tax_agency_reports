@@ -1,0 +1,107 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 07/08/08       TAX YEAR 2006                                AGENCY TAX RATE REPORT
+                                                                                                                                           2006 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV       59,304,530,189       COOK COUNTY   69,510,477,563
+ AGENCY 04-4060-000 BOARD OF EDUCATION                            CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE             6,071,637
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP    795,021,648       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL              60,099,551,837       WILL
+                                                                                                                          KANE
+ 2005 AGGREGATE EXTENSION  2006 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0340         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+      1,800,742,740       /   68,721,527,552          =      2.621                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV          69,516,549,200       TOTAL         69,516,549,200
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL      99.99% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 003  BONDS & INTEREST                                  0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 009  STREET & BRIDGE                                   0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 011  PLAY GROUNDS & REC                                0                 0      0.0800            0    0.000000                          0   0.000000
+                                                        0
+ 016  SOCIAL SECURITY                                   0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 040  MAINT. OF PUBLIC BLDG PROP.                       0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 052  EDUCATION                              1494,816,132      1494,816,132      4.0000 1494,816,132    2.150303 1444,444,618* 1444,300,173   2.077817
+                                                        0
+ 053  BUILDING                                          0                 0      0.7500            0    0.000000                          0   0.000000
+                                                        0
+ 058  SPECIAL EDUCATION                                 0                 0      0.8000            0    0.000000                          0   0.000000
+                                                        0
+ 100  A/C ANNEX                                         0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 160  PUBLIC BUILDING COMM RENTAL 1                     0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 161  PUBLIC BUILDING COMM RENTAL 2                     0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 162  PUBLIC BUILDING COMM RENTAL 3                     0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 171  EDUCATIONAL FUND NOTES                            0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 172  BUILDING FUND NOTES                               0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 173  TEXT BOOK FUND NOTES                              0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+
+
+
+ 
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 07/08/08       TAX YEAR 2006                                AGENCY TAX RATE REPORT
+                                                                                                                                           2006 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV       59,304,530,189       COOK COUNTY   69,510,477,563
+ AGENCY 04-4060-000 BOARD OF EDUCATION                            CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE             6,071,637
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP    795,021,648       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL              60,099,551,837       WILL
+                                                                                                                          KANE
+ 2005 AGGREGATE EXTENSION  2006 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0340         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+      1,800,742,740       /   68,721,527,552          =      2.621                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV          69,516,549,200       TOTAL         69,516,549,200
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL      99.99% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 174  PLAY GROUND FUND NOTES                            0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 175  MAINTENANCE PUB BLDG COMM PROP #1                 0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 176  TEXT BOOKS                                        0                 0      0.1100            0    0.000000                          0   0.000000
+                                                        0
+ 177  TEACHERS PENSION                                  0                 0      0.2600            0    0.000000                          0   0.000000
+                                                        0
+ 217  OPERATION & MAINTENANCE PUB. BLDG. COM  362,500,000       362,500,000      0.0000  362,500,000    0.521459  362,500,000*  362,463,750   0.521452
+                                                        0
+ 251  WORKMEN'S COMPENSATION                   54,600,000        54,600,000      0.0000   54,600,000    0.078542   14,600,000*   14,598,540   0.021002
+                                                        0
+ 290  CBOE MEDICARE                                     0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 300  AGRICULTURAL SCIENCE SCHOOL                       0                 0      0.0200            0    0.000000                          0   0.000000
+                                                        0
+ 401  PUBLIC BUILDING COMMISSION               51,343,957        53,206,173      0.0000   53,206,173    0.076537                 53,200,852   0.076536
+                                                1,862,216
+
+
+ TOTAL CAP FUNDS                                              1,911,916,132            1,911,916,132       2.751 1821,544,618  1821,362,463      2.621
+ TOTAL NON CAP FUNDS                                             53,206,173               53,206,173    0.076537                 53,200,852   0.076536
+
+ AGENCY GRAND TOTAL                                           1,965,122,305            1,965,122,305       2.827 1821,544,618  1874,563,315      2.697
+                                                                                                                    AGENCY'S REDUCTION
+
+                                        2006 NON CAP FUNDS TAX EXTENSION TOTAL      53,200,539.11  2006 TAX EXTENSION GRAND TOTAL   1,874,697,579.87

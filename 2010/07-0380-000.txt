@@ -1,0 +1,53 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 09/22/11       TAX YEAR 2010                                AGENCY TAX RATE REPORT
+                                                                                                                                           2010 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        3,017,187,943       COOK COUNTY    3,018,249,531
+ AGENCY 07-0380-000 ORLAND FIRE PROTECTION DISTRICT               CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP     38,699,728       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               3,055,887,671       WILL
+                                                                                                                          KANE
+ 2009 AGGREGATE EXTENSION  2010 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0270         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+         25,935,717       /    2,979,549,803          =      0.871                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV           3,018,249,531       TOTAL          3,018,249,531
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 001  CORPORATE                                12,540,067    3   12,916,269      0.5000   12,916,269      0.4279   12,652,502*   12,652,502     0.4192
+                                                  376,202
+ 003  BONDS & INTEREST                                  0    5            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 007  FIRE PENSION                              3,151,493    3    3,246,038      0.0000    3,246,038      0.1075    3,178,216*    3,178,216     0.1053
+                                                   94,545
+ 008  I.M.R.F.                                    207,000    3      213,210      0.0000      213,210      0.0071      211,277*      211,277     0.0070
+                                                    6,210
+ 016  SOCIAL SECURITY                             329,000    3      338,870      0.0000      338,870      0.0112      332,007*      332,007     0.0110
+                                                    9,870
+ 018  AUDITING                                     20,898    3       21,525      0.0050       21,525      0.0007       21,127        21,127     0.0007
+                                                      627
+ 019  LIABILITY INSURANCE                       1,950,238    3    2,008,745      0.0000    2,008,745      0.0666    1,970,916*    1,970,916     0.0653
+                                                   58,507
+ 034  AMBULANCE SERVICE                         6,550,000    3    6,746,500      0.3000    6,746,500      0.2235    6,609,966*    6,609,966     0.2190
+                                                  196,500
+ 296  EMERGENCY AND RESCUE                      1,284,218    3    1,322,745      0.0500    1,322,745      0.0438    1,294,829*    1,294,829     0.0429
+                                                   38,527
+ 404  FIRE PENSION-P.A. 93-0689 CONTRIBUTION      228,094    3      234,937      0.0000      234,937      0.0078                    234,937     0.0078
+                                                    6,843
+
+
+ TOTAL CAP FUNDS                                                 26,813,902               26,813,902       0.889   26,270,840    26,270,840      0.871
+ TOTAL NON CAP FUNDS                                                234,937                  234,937      0.0078                    234,937     0.0078
+
+ AGENCY GRAND TOTAL                                              27,048,839               27,048,839       0.897   26,270,840    26,505,777      0.879
+                                                                                                       *CLERK'S REDUCTION FACTOR 97.9752%
+
+                                        2010 NON CAP FUNDS TAX EXTENSION TOTAL         235,423.46  2010 TAX EXTENSION GRAND TOTAL      26,530,413.38

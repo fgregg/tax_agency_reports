@@ -1,0 +1,43 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 11/08/10       TAX YEAR 2009                                AGENCY TAX RATE REPORT
+                                                                                                                                           2009 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          650,189,563       COOK COUNTY      656,599,822
+ AGENCY 03-1290-001 VILLAGE OF WESTCHESTER LIBRARY FUND           CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      1,590,600       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 651,780,163       WILL
+                                                                                                                          KANE
+ 2008 AGGREGATE EXTENSION  2009 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0010         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+          6,586,497       /      655,009,222          =      1.006                                                        KENDALL
+                                                                                                                          LA SALLE
+ CONNECTING 03-1290-000  VILLAGE OF   WESTCHESTER                                                                         LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV             656,599,822       TOTAL            656,599,822
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 005  LIBRARY                                   1,020,300    3    1,050,909      0.6000    1,050,909      0.1601      977,677*      977,677     0.1489
+                                                   30,609
+ 008  I.M.R.F.                                     43,440    3       44,743      0.0000       44,743      0.0068       41,365*       41,365     0.0063
+                                                    1,303
+ 016  SOCIAL SECURITY                              43,400    3       44,702      0.0000       44,702      0.0068       41,365*       41,365     0.0063
+                                                    1,302
+ 019  LIABILITY INSURANCE                          10,860    3       11,186      0.0000       11,186      0.0017       10,505*       10,505     0.0016
+                                                      326
+ 254  LIBRARY BUILDING AND SITES                        0    3            0      0.0200            0      0.0000                          0     0.0000
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                  1,151,540                1,151,540       0.176    1,070,912     1,070,912      0.164
+ TOTAL NON CAP FUNDS                                                      0                        0      0.0000                          0     0.0000
+
+ AGENCY GRAND TOTAL                                               1,151,540                1,151,540       0.176    1,070,912     1,070,912      0.164
+                                                                                                       *CLERK'S REDUCTION FACTOR 92.9759%
+
+                                                                                                   2009 TAX EXTENSION GRAND TOTAL       1,076,823.71

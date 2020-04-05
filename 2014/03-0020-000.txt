@@ -1,0 +1,53 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/18/15       TAX YEAR 2014                                AGENCY TAX RATE REPORT
+                                                                                                                                           2014 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        2,477,913,486       COOK COUNTY    2,504,219,769
+ AGENCY 03-0020-000 VILLAGE OF ARLINGTON HEIGHTS                  CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      8,189,532       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               2,486,103,018       WILL
+                                                                                                                          KANE
+ 2013 AGGREGATE EXTENSION  2014 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-0020-001  VILLAGE OF ARLINGTON HTS LIBRARY FUND                                                            LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV           2,504,219,769       TOTAL          2,504,219,769
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                 9,331,063    1    9,424,374      0.0000    9,424,374      0.3763                  9,424,374     0.3763
+                                                   93,311
+ 003  BONDS & INTEREST                          6,713,508    1    6,780,643      0.0000    6,780,643      0.2708                  6,780,643     0.2708
+                                                   67,135
+ 005  LIBRARY                                           0    1            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 006  POLICE PENSION                            4,500,000    1    4,545,000      0.0000    4,545,000      0.1815                  4,545,000     0.1815
+                                                   45,000
+ 007  FIRE PENSION                              5,057,400    1    5,107,974      0.0000    5,107,974      0.2040                  5,107,974     0.2040
+                                                   50,574
+ 008  I.M.R.F.                                  1,714,300    1    1,731,443      0.0000    1,731,443      0.0691                  1,731,443     0.0691
+                                                   17,143
+ 010  PUBLIC BENEFIT                                    0    1            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 016  SOCIAL SECURITY                           1,247,300    1    1,259,773      0.0000    1,259,773      0.0503                  1,259,773     0.0503
+                                                   12,473
+ 027  PURCHASE AGREEMENT                                0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 065  CAPITAL IMPROVEMENT                       2,900,000    1    2,929,000      0.0000    2,929,000      0.1170                  2,929,000     0.1170
+                                                   29,000
+ 253  WATER AND SEWAGE                                  0    1            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 295  WATER FUND                                        0    1            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+ AGENCY GRAND TOTAL                                              31,778,207               31,778,207       1.269                 31,778,207      1.269
+
+
+                                                                                                   2014 TAX EXTENSION GRAND TOTAL      31,778,548.87

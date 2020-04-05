@@ -1,0 +1,37 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 07/10/14       TAX YEAR 2013                                AGENCY TAX RATE REPORT
+                                                                                                                                           2013 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        1,470,162,652       COOK COUNTY    1,369,216,060
+ AGENCY 02-0180-000 TOWN OAK PARK                                 CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP        805,851       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               1,470,968,503       WILL
+                                                                                                                          KANE
+ 2012 AGGREGATE EXTENSION  2013 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0170         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+          4,440,871       /    1,368,410,209          =      0.325                                                        KENDALL
+                                                                                                                          LA SALLE
+ CONNECTING 02-0180-002  GENERAL ASSISTANCE   OAK PARK                                                                    LIVINGSTON
+ AGENCIES   02-0180-004  OAK PARK MENTAL HEALTH DISTRICT
+                                                                         AGENCY OVERALL EAV           1,369,216,060       TOTAL          1,369,216,060
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 001  CORPORATE                                 2,398,395    3    2,470,347      0.2500    2,470,347      0.1804    2,396,128*    2,396,128     0.1750
+                                                   71,952
+ 008  I.M.R.F.                                    100,000    3      103,000      0.0000      103,000      0.0075       99,952*       99,952     0.0073
+                                                    3,000
+
+
+ TOTAL CAP FUNDS                                                  2,573,347                2,573,347       0.188    2,496,080     2,496,080      0.183
+ TOTAL NON CAP FUNDS                                                      0                        0      0.0000                          0     0.0000
+
+ AGENCY GRAND TOTAL                                               2,573,347                2,573,347       0.188    2,496,080     2,496,080      0.183
+                                                                                                       *CLERK'S REDUCTION FACTOR 97.0149%
+
+                                                                                                   2013 TAX EXTENSION GRAND TOTAL       2,505,665.39

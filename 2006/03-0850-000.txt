@@ -1,0 +1,57 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 07/08/08       TAX YEAR 2006                                AGENCY TAX RATE REPORT
+                                                                                                                                           2006 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          328,490,377       COOK COUNTY      330,972,945
+ AGENCY 03-0850-000 CITY OF   NORTH LAKE                          CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      4,028,664       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 332,519,041       WILL
+                                                                                                                          KANE
+ 2005 AGGREGATE EXTENSION  2006 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV             330,972,945       TOTAL            330,972,945
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                   934,097           934,097      0.0000      934,097      0.2822                    934,097     0.2822
+                                                        0
+ 003  BONDS & INTEREST                            200,001           200,001      0.0000      200,001      0.0604                    200,001     0.0604
+                                                        0
+ 004  GARBAGE                                     467,991           467,991      0.0000      467,991      0.1414                    467,991     0.1414
+                                                        0
+ 006  POLICE PENSION                              400,000           400,000      0.0000      400,000      0.1209                    400,000     0.1209
+                                                        0
+ 008  I.M.R.F.                                    100,000           100,000      0.0000      100,000      0.0302                    100,000     0.0302
+                                                        0
+ 009  STREET & BRIDGE                                   0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 014  POLICE PROTECTION                           522,535           522,535      0.0000      522,535      0.1579                    522,535     0.1579
+                                                        0
+ 015  CIVIL DEFENSE                                     0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 016  SOCIAL SECURITY                             101,052           101,052      0.0000      101,052      0.0305                    101,052     0.0305
+                                                        0
+ 018  AUDITING                                     49,341            49,341      0.0000       49,341      0.0149                     49,341     0.0149
+                                                        0
+ 019  LIABILITY INSURANCE                         155,990           155,990      0.0000      155,990      0.0471                    155,990     0.0471
+                                                        0
+ 022  STREET LIGHTING                             140,964           140,964      0.0000      140,964      0.0426                    140,964     0.0426
+                                                        0
+ 251  WORKMEN'S COMPENSATION                            0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 262  UNEMPLOYMENT INSURANCE                       11,465            11,465      0.0000       11,465      0.0035                     11,465     0.0035
+                                                        0
+
+ AGENCY GRAND TOTAL                                               3,083,436                3,083,436       0.932                  3,083,436      0.932
+
+
+                                                                                                   2006 TAX EXTENSION GRAND TOTAL       3,084,667.85

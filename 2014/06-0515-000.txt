@@ -1,0 +1,45 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/18/15       TAX YEAR 2014                                AGENCY TAX RATE REPORT
+                                                                                                                                           2014 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV            2,276,001       COOK COUNTY        1,520,547
+ AGENCY 06-0515-000 UNIVERSITY PARK PUBLIC LIBRARY DISTRICT       CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP              0       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                   2,276,001       WILL             101,851,146
+                                                                                                                          KANE
+ 2013 AGGREGATE EXTENSION  2014 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0150         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+            521,746       /      103,369,942          =      0.505                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV             103,371,693       TOTAL            103,371,693
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 001  CORPORATE                                   466,600    3      480,598      0.6000      480,598      0.4649      468,480*      468,480     0.4532
+                                                   13,998
+ 003  BONDS & INTEREST                                  0    5            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 008  I.M.R.F.                                     46,000    3       47,380      0.0000       47,380      0.0458       46,207*       46,207     0.0447
+                                                    1,380
+ 018  AUDITING                                      6,000    3        6,180      0.0050        5,206      0.0050        5,065*        5,065     0.0049
+                                                      180
+ 019  LIABILITY INSURANCE                           1,000    3        1,030      0.0000        1,030      0.0010        1,033         1,033     0.0010
+                                                       30
+ 262  UNEMPLOYMENT INSURANCE                          600    3          618      0.0000          618      0.0006          620           620     0.0006
+                                                       18
+
+
+ TOTAL CAP FUNDS                                                    535,806                  534,832       0.518      521,405       521,405      0.505
+ TOTAL NON CAP FUNDS                                                      0                        0      0.0000                          0     0.0000
+
+ AGENCY GRAND TOTAL                                                 535,806                  534,832       0.518      521,405       521,405      0.505
+                                                                                                       *CLERK'S REDUCTION FACTOR 97.4903%
+
+                                                                                                   2014 TAX EXTENSION GRAND TOTAL           7,678.76

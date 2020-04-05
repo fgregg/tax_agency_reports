@@ -1,0 +1,49 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 07/08/08       TAX YEAR 2006                                AGENCY TAX RATE REPORT
+                                                                                                                                           2006 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          783,691,685       COOK COUNTY      771,076,587
+ AGENCY 02-0060-000 TOWN   CICERO                                 CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      2,986,020       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 786,677,705       WILL
+                                                                                                                          KANE
+ 2005 AGGREGATE EXTENSION  2006 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 02-0060-002  GENERAL ASSISTANCE   CICERO                                                                      LIVINGSTON
+ AGENCIES   02-0060-001  TOWN OF CICERO LIBRARY FUND
+            02-0060-004  CICERO COMM MENTAL HLTH FD                      AGENCY OVERALL EAV             771,076,587       TOTAL            771,076,587
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                13,645,391    3   14,054,753      0.0000   14,054,753      1.8227                 14,054,753     1.8227
+                                                  409,362
+ 003  BONDS & INTEREST                          5,314,850    5    5,580,593      0.0000    5,580,593      0.7237                  5,580,593     0.7237
+                                                  265,743
+ 005  LIBRARY                                           0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 006  POLICE PENSION                            2,728,735    3    2,810,597      0.0000    2,810,597      0.3645                  2,810,597     0.3645
+                                                   81,862
+ 007  FIRE PENSION                              2,472,470    3    2,546,644      0.0000    2,546,644      0.3303                  2,546,644     0.3303
+                                                   74,174
+ 008  I.M.R.F.                                          0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 015  CIVIL DEFENSE                                     0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 028  MENTAL HEALTH                                     0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 076  JUDGMENT FUND                             3,834,199    3    3,949,225      0.0000    3,949,225      0.5122                  3,949,225     0.5122
+                                                  115,026
+ 178  CORP. NOTES                                       0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+ AGENCY GRAND TOTAL                                              28,941,812               28,941,812       3.754                 28,941,812      3.754
+
+
+                                                                                                   2006 TAX EXTENSION GRAND TOTAL      28,946,215.08

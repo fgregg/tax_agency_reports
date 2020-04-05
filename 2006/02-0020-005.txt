@@ -1,0 +1,47 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 07/08/08       TAX YEAR 2006                                AGENCY TAX RATE REPORT
+                                                                                                                                           2006 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          802,248,035       COOK COUNTY      801,413,358
+ AGENCY 02-0020-005 PUBLIC HEALTH BERWYN                          CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      1,377,486       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 803,625,521       WILL
+                                                                                                                          KANE
+ 2005 AGGREGATE EXTENSION  2006 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0340         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+          1,315,878       /      800,035,872          =      0.165                                                        KENDALL
+                                                                                                                          LA SALLE
+ CONNECTING 02-0020-000  TOWN   BERWYN                                                                                    LIVINGSTON
+ AGENCIES   02-0020-002  GENERAL ASSISTANCE   BERWYN
+            02-0020-004  BERWYN TOWNSHIP COMM MENTAL HEALTH DIST         AGENCY OVERALL EAV             801,413,358       TOTAL            801,413,358
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 001  CORPORATE                                   409,380    3      421,661      0.1500      421,661      0.0526      409,522*      409,522     0.0511
+                                                   12,281
+ 008  I.M.R.F.                                     10,000    3       10,300      0.0000       10,300      0.0013       10,418        10,418     0.0013
+                                                      300
+ 016  SOCIAL SECURITY                              16,565    3       17,062      0.0000       17,062      0.0021       16,028*       16,028     0.0020
+                                                      497
+ 018  AUDITING                                      4,800    3        4,944      0.0050        4,944      0.0006        4,808         4,808     0.0006
+                                                      144
+ 019  LIABILITY INSURANCE                          39,400    3       40,582      0.0000       40,582      0.0051       40,070*       40,070     0.0050
+                                                    1,182
+ 251  WORKMEN'S COMPENSATION                            0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 262  UNEMPLOYMENT INSURANCE                            0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                    494,549                  494,549       0.062      480,846       480,846      0.060
+ TOTAL NON CAP FUNDS                                                      0                        0      0.0000                          0     0.0000
+
+ AGENCY GRAND TOTAL                                                 494,549                  494,549       0.062      480,846       480,846      0.060
+                                                                                                       *CLERK'S REDUCTION FACTOR 97.0588%
+
+                                                                                                   2006 TAX EXTENSION GRAND TOTAL         480,848.01

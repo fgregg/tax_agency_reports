@@ -92,7 +92,11 @@ class TaxAgencyScraper(ASPXScraper):
 
             page = self.lxmlize(report_url.format(i))
 
-            text, = page.xpath('//pre/text()')
+            try:
+                text = ''.join(page.xpath('//pre/text()'))
+            except:
+                import pdb
+                pdb.set_trace()
             yield text
 
     def scrape(self) -> Generator[str, None, None]:
@@ -103,8 +107,23 @@ class TaxAgencyScraper(ASPXScraper):
 
 
 if __name__ == '__main__':
+    import re
+    from pathlib import Path
 
     scraper = TaxAgencyScraper()
-    for report in scraper.search(2018, 'agency rate'):
-        print(report)
-        input()
+    for year in range(2018, 2005, -1):
+        year_path = Path('./' + str(year))
+        year_path.mkdir(exist_ok=True)
+        for report in scraper.search(year, 'agency rate'):
+
+            if report == '':
+                continue
+            
+            results = re.search(r' AGENCY (\d{2}-\d{4}-\d{3})', report)
+            agency_code, = results.groups()
+
+            file_path = year_path / (agency_code + '.txt')
+            print(file_path)
+
+            with open(file_path, 'w') as f:
+                f.write(report)

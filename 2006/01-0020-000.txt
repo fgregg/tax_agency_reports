@@ -1,0 +1,53 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 07/08/08       TAX YEAR 2006                                AGENCY TAX RATE REPORT
+                                                                                                                                           2006 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV      133,371,713,730       COOK COUNTY  144,344,068,478
+ AGENCY 01-0020-000 FOREST PRESERVE DISTRICT OF COOK COUNTY       CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP  1,975,574,435       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL             135,347,288,165       WILL
+                                                                                                                          KANE
+ 2005 AGGREGATE EXTENSION  2006 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0340         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+         67,094,198       /  142,368,494,043          =      0.048                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV         144,344,068,478       TOTAL        144,344,068,478
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 NO REDUCTION   COOK COUNTY
+ 001  CORPORATE                                36,800,567        36,800,567      0.0600   36,800,567    0.025495                 36,800,567   0.025495
+                                                        0
+ 003  BONDS & INTEREST                         13,311,503        13,794,304      0.0000   13,794,304    0.009557                 13,794,304   0.009557
+                                                  482,801
+ 046  DEF. OF FOREST LANDS                              0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 047  BOTANICAL GARDENS                         8,902,924         8,902,924      0.0150    8,902,924    0.006168                  8,902,924   0.006168
+                                                        0
+ 048  ZOO PARK                                 14,168,025        14,168,025      0.0350   14,168,025    0.009815                 14,168,025   0.009815
+                                                        0
+ 103  CAL SAG BONDS & INTEREST 2                        0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 127  EMPLOYEE A & B                            2,383,835         2,383,835      0.0000    2,383,835    0.001651                  2,383,835   0.001651
+                                                        0
+ 178  CORP. NOTES                                       0                 0      0.0600            0    0.000000                          0   0.000000
+                                                        0
+ 214  CONSTRUCTION & DEVELOPMENT                5,750,000         5,750,000      0.0210    5,750,000    0.003984                  5,750,000   0.003984
+                                                        0
+ 215  CONSTRUCTION & DEVELOPMENT NOTES                  0                 0      0.0210            0    0.000000                          0   0.000000
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                 68,005,351               68,005,351       0.048                 68,005,351      0.048
+ TOTAL NON CAP FUNDS                                             13,794,304               13,794,304    0.009557                 13,794,304   0.009557
+
+ AGENCY GRAND TOTAL                                              81,799,655               81,799,655       0.057                 81,799,655      0.057
+
+
+                                        2006 NON CAP FUNDS TAX EXTENSION TOTAL      13,794,962.62  2006 TAX EXTENSION GRAND TOTAL      82,276,119.03

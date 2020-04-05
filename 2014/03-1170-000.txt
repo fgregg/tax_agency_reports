@@ -1,0 +1,55 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/18/15       TAX YEAR 2014                                AGENCY TAX RATE REPORT
+                                                                                                                                           2014 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        2,068,698,289       COOK COUNTY    2,121,838,407
+ AGENCY 03-1170-000 VILLAGE OF   SKOKIE                           CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP     21,339,235       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               2,090,037,524       WILL
+                                                                                                                          KANE
+ 2013 AGGREGATE EXTENSION  2014 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-1170-001  VILLAGE OF SKOKIE LIBRARY FUND                                                                   LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV           2,121,838,407       TOTAL          2,121,838,407
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                10,503,640    3   10,818,749      0.0000   10,818,749      0.5099                 10,818,749     0.5099
+                                                  315,109
+ 003  BONDS & INTEREST                          1,978,110         1,978,110      0.0000    1,978,110      0.0932                  1,978,110     0.0932
+                                                        0
+ 004  GARBAGE                                           0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 006  POLICE PENSION                              316,598    3      326,096      0.0000      326,096      0.0154                    326,096     0.0154
+                                                    9,498
+ 007  FIRE PENSION                                785,701    3      809,272      0.0000      809,272      0.0381                    809,272     0.0381
+                                                   23,571
+ 008  I.M.R.F.                                  1,872,646    3    1,928,825      0.0000    1,928,825      0.0909                  1,928,825     0.0909
+                                                   56,179
+ 009  STREET & BRIDGE                                   0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 010  PUBLIC BENEFIT                                    0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 013  FIRE PROTECTION                                   0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 014  POLICE PROTECTION                                 0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 027  PURCHASE AGREEMENT                                0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 291  BOND NOTE                                         0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 350  I.E.P.A. LOAN AGREEMENT                           0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+ AGENCY GRAND TOTAL                                              15,861,052               15,861,052       0.748                 15,861,052      0.748
+
+
+                                                                                                   2014 TAX EXTENSION GRAND TOTAL      15,871,351.28

@@ -1,0 +1,57 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 09/22/11       TAX YEAR 2010                                AGENCY TAX RATE REPORT
+                                                                                                                                           2010 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          175,922,389       COOK COUNTY      177,267,712
+ AGENCY 04-0550-000 SCHOOL DISTRICT 94                            CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP        401,894       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 176,324,283       WILL
+                                                                                                                          KANE
+ 2009 AGGREGATE EXTENSION  2010 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0270         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+          3,802,428       /      176,865,818          =      2.150                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV             177,267,712       TOTAL            177,267,712
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 008  I.M.R.F.                                    106,090    3      109,273      0.0000      109,273      0.0616                    109,273     0.0616
+                                                    3,183
+ 019  LIABILITY INSURANCE                               0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 051  TRANSPORTATION                               99,725    3      102,717      0.0000      102,717      0.0579                    102,717     0.0579
+                                                    2,992
+ 052  EDUCATION                                 3,129,655    3    3,223,545      3.5000    3,223,545      1.8185    2,985,688*    2,985,688     1.6843
+                                                   93,890
+ 053  BUILDING                                    546,364    3      562,755      0.5500      562,755      0.3175                    562,755     0.3175
+                                                   16,391
+ 054  BUILDING BONDS (BONDS & INT. SCHOOL)              0    5            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 055  WORKING CASH FUNDS                           53,045    3       54,636      0.0500       54,636      0.0308            1*            1     0.0000
+                                                    1,591
+ 056  LIFE SAFETY                                       0                 0      0.1000            0      0.0000                          0     0.0000
+                                                        0
+ 058  SPECIAL EDUCATION                            48,801    3       50,265      0.4000       50,265      0.0284                     50,265     0.0284
+                                                    1,464
+ 182  LIFE SAFETY BOND                                  0    5            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 400  LIMITED BONDS                               315,850    5      331,643      0.0000      331,643      0.1871                    331,643     0.1871
+                                                   15,793
+ 402  LIFE SAFETY LIMITED BONDS                         0    5            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                  4,103,191                4,103,191       2.315    2,985,689     3,810,699      2.150
+ TOTAL NON CAP FUNDS                                                331,643                  331,643      0.1871                    331,643     0.1871
+
+ AGENCY GRAND TOTAL                                               4,434,834                4,434,834       2.502    2,985,689     4,142,342      2.337
+                                                                                                                    AGENCY'S REDUCTION
+
+                                        2010 NON CAP FUNDS TAX EXTENSION TOTAL         331,667.89  2010 TAX EXTENSION GRAND TOTAL       4,142,746.43

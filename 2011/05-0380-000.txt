@@ -1,0 +1,57 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/26/12       TAX YEAR 2011                                AGENCY TAX RATE REPORT
+                                                                                                                                           2011 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV           31,923,823       COOK COUNTY       29,668,232
+ AGENCY 05-0380-000 FRANKFORT SQUARE PARK DISTRICT                CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP              0       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                  31,923,823       WILL             531,947,117
+                                                                                                                          KANE
+ 2010 AGGREGATE EXTENSION  2011 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0150         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+          2,114,691       /      558,221,401          =      0.379                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV             561,615,349       TOTAL            561,615,349
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 001  CORPORATE                                 3,146,000    3    3,240,380      0.3500    1,965,654      0.3500    1,584,878*    1,584,878     0.2822
+                                                   94,380
+ 003  BONDS & INTEREST                            519,343    5      545,310      0.0000      545,310      0.0971                    545,310     0.0971
+                                                   25,967
+ 016  SOCIAL SECURITY                             110,000    3      113,300      0.0000      113,300      0.0202       91,543*       91,543     0.0163
+                                                    3,300
+ 018  AUDITING                                     15,000    3       15,450      0.0050       15,450      0.0028       12,917*       12,917     0.0023
+                                                      450
+ 019  LIABILITY INSURANCE                         100,000    3      103,000      0.0000      103,000      0.0183       83,119*       83,119     0.0148
+                                                    3,000
+ 020  RECREATION                                  410,000    3      422,300      0.3700      422,300      0.0752      340,338*      340,338     0.0606
+                                                   12,300
+ 021  PAVING AND LIGHTING                          15,000    3       15,450      0.0050       15,450      0.0028       12,917*       12,917     0.0023
+                                                      450
+ 024  WORKING CASH FUNDS                                0    3            0      0.0250            0      0.0000                          0     0.0000
+                                                        0
+ 033  MUSEUM MAINTENANCE                                0    3            0      0.0300            0      0.0000                          0     0.0000
+                                                        0
+ 202  HANDICAPPED FUND                            265,000    3      272,950      0.0400      224,646      0.0400                    224,646     0.0400
+                                                    7,950
+ 251  WORKMEN'S COMPENSATION                            0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 400  LIMITED BONDS                               108,296    5      113,711      0.0000      113,711      0.0202                    113,711     0.0202
+                                                    5,415
+
+
+ TOTAL CAP FUNDS                                                  3,909,880                2,635,154       0.470    2,125,712     2,125,712      0.379
+ TOTAL NON CAP FUNDS                                                931,971                  883,667      0.1573                    883,667     0.1573
+
+ AGENCY GRAND TOTAL                                               4,841,851                3,518,821       0.627    2,125,712     3,009,379      0.536
+                                                                                                       *CLERK'S REDUCTION FACTOR 80.6382%
+
+                                        2011 NON CAP FUNDS TAX EXTENSION TOTAL          46,668.13  2011 TAX EXTENSION GRAND TOTAL         159,021.72

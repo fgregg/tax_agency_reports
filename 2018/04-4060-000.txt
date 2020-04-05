@@ -1,0 +1,111 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/20/19       TAX YEAR 2018                AGENCY TAX RATE REPORT
+                                                                                                                                           2018 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV       76,765,302,536       COOK COUNTY   86,326,178,932
+ AGENCY 04-4060-000 BOARD OF EDUCATION                            CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE             9,703,001
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP    957,951,543       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL              77,723,254,079       WILL
+                                                                                                                          KANE
+ 2017 AGGREGATE EXTENSION  2018 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0210         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+      2,508,166,071       /   85,377,930,390          =      2.938                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV          86,335,881,933       TOTAL         86,335,881,933
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL      99.99% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 003  BONDS & INTEREST                         46,783,890        48,480,715      0.0000   48,480,715    0.056154                 48,475,867   0.056154
+                                                1,696,825
+ 009  STREET & BRIDGE                                   0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 011  PLAY GROUNDS & REC                                0                 0      0.0800            0    0.000000                          0   0.000000
+                                                        0
+ 016  SOCIAL SECURITY                                   0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 040  MAINT. OF PUBLIC BLDG PROP.                       0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 052  EDUCATION                              2710,638,684      2710,638,684      0.0000 2710,638,684    3.139643 2455,947,832* 2455,702,237   2.844678
+                                                        0
+ 053  BUILDING                                          0                 0      0.7500            0    0.000000                          0   0.000000
+                                                        0
+ 058  SPECIAL EDUCATION                                 0                 0      0.8000            0    0.000000                          0   0.000000
+                                                        0
+ 100  A/C ANNEX                                         0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 160  PUBLIC BUILDING COMM RENTAL 1                     0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 161  PUBLIC BUILDING COMM RENTAL 2                     0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 162  PUBLIC BUILDING COMM RENTAL 3                     0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 171  EDUCATIONAL FUND NOTES                            0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 172  BUILDING FUND NOTES                               0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 173  TEXT BOOK FUND NOTES                              0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+
+
+
+ 
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/20/19       TAX YEAR 2018                AGENCY TAX RATE REPORT
+                                                                                                                                           2018 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV       76,765,302,536       COOK COUNTY   86,326,178,932
+ AGENCY 04-4060-000 BOARD OF EDUCATION                            CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE             9,703,001
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP    957,951,543       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL              77,723,254,079       WILL
+                                                                                                                          KANE
+ 2017 AGGREGATE EXTENSION  2018 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0210         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+      2,508,166,071       /   85,377,930,390          =      2.938                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV          86,335,881,933       TOTAL         86,335,881,933
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL      99.99% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 174  PLAY GROUND FUND NOTES                            0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 175  MAINTENANCE PUB BLDG COMM PROP #1                 0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 176  TEXT BOOKS                                        0                 0      0.1100            0    0.000000                          0   0.000000
+                                                        0
+ 177  TEACHERS PENSION                                  0                 0      0.2600            0    0.000000                          0   0.000000
+                                                        0
+ 217  OPERATION & MAINTENANCE PUB. BLDG. COM            0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 251  WORKMEN'S COMPENSATION                   80,450,540        80,450,540      0.0000   80,450,540    0.093183   80,450,540    80,442,494   0.093184
+                                                        0
+ 290  CBOE MEDICARE                                     0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 300  AGRICULTURAL SCIENCE SCHOOL                       0                 0      0.0200            0    0.000000                          0   0.000000
+                                                        0
+ 401  PUBLIC BUILDING COMMISSION               29,803,900        30,884,870      0.0000   30,884,870    0.035773                 30,881,782   0.035773
+                                                1,080,970
+ 406  CAPITAL IMPROVEMENT PA 92-547             9,456,067         9,799,033      0.0000    9,799,033    0.011350                  9,798,053   0.011350
+                                                  342,966
+ 407  TEACHER PENSION PA 99-0521              443,345,711       443,345,711      0.5670  440,745,867    0.510501                440,701,792   0.510508
+                                                        0
+
+
+ TOTAL CAP FUNDS                                              2,791,089,224            2,791,089,224       3.233 2536,398,372  2536,144,731      2.938
+ TOTAL NON CAP FUNDS                                            532,510,329              529,910,485    0.613778                529,857,494   0.613785
+
+ AGENCY GRAND TOTAL                                           3,323,599,553            3,320,999,709       3.847 2536,398,372  3066,002,225      3.552
+                                                                                                                    AGENCY'S REDUCTION
+
+                                        2018 NON CAP FUNDS TAX EXTENSION TOTAL     529,857,137.36  2018 TAX EXTENSION GRAND TOTAL   3,066,305,875.66

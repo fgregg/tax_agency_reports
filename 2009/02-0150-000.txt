@@ -1,0 +1,41 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 11/08/10       TAX YEAR 2009                                AGENCY TAX RATE REPORT
+                                                                                                                                           2009 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        5,876,462,961       COOK COUNTY    5,664,069,388
+ AGENCY 02-0150-000 TOWN   NILES                                  CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP     32,746,130       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               5,909,209,091       WILL
+                                                                                                                          KANE
+ 2008 AGGREGATE EXTENSION  2009 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0010         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+          1,764,701       /    5,631,323,258          =      0.032                                                        KENDALL
+                                                                                                                          LA SALLE
+ CONNECTING 02-0150-002  GENERAL ASSISTANCE   NILES                                                                       LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV           5,664,069,388       TOTAL          5,664,069,388
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 001  CORPORATE                                 1,719,856    3    1,771,452      0.2500    1,771,452      0.0313    1,619,923*    1,619,923     0.0286
+                                                   51,596
+ 008  I.M.R.F.                                          0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 016  SOCIAL SECURITY                                   0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 019  LIABILITY INSURANCE                               0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                  1,771,452                1,771,452       0.032    1,619,923     1,619,923      0.029
+ TOTAL NON CAP FUNDS                                                      0                        0      0.0000                          0     0.0000
+
+ AGENCY GRAND TOTAL                                               1,771,452                1,771,452       0.032    1,619,923     1,619,923      0.029
+                                                                                                       *CLERK'S REDUCTION FACTOR 91.4285%
+
+                                                                                                   2009 TAX EXTENSION GRAND TOTAL       1,642,580.12
