@@ -1,0 +1,39 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/29/20       TAX YEAR 2019                AGENCY TAX RATE REPORT
+                                                                                                                                           2019 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV       86,326,178,932       COOK COUNTY   87,816,177,317
+ AGENCY 03-0210-001 CITY OF CHICAGO LIBRARY FUND                  CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE             9,493,032
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP  1,167,626,619       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL              87,493,805,551       WILL
+                                                                                                                          KANE
+ 2018 AGGREGATE EXTENSION  2019 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-0210-000  CITY OF CHICAGO                                                                                  LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV          87,825,670,349       TOTAL         87,825,670,349
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL      99.99% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 003  BONDS & INTEREST                                  0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 128  LIBRARY MUN EMP A & B                     5,300,000         5,300,000      0.0000    5,300,000    0.006035                  5,299,470   0.006035
+                                                        0
+ 180  LIBRARY MAINT                                     0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 254  LIBRARY BUILDING AND SITES                        0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 259  LIBRARY NOTE REDEMPTION                  96,883,000       100,920,000      0.0000  100,920,000    0.114909                100,909,908   0.114910
+                                                4,037,000
+
+ AGENCY GRAND TOTAL                                             106,220,000              106,220,000       0.121                106,209,378      0.121
+
+
+                                                                                                   2019 TAX EXTENSION GRAND TOTAL     106,257,574.55

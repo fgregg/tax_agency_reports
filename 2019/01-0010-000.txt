@@ -1,0 +1,90 @@
+
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/29/20       TAX YEAR 2019                AGENCY TAX RATE REPORT
+                                                                                                                                           2019 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV      158,584,064,770       COOK COUNTY  166,917,611,547
+ AGENCY 01-0010-000 COUNTY OF COOK                                CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP  1,932,032,386       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL             160,516,097,156       WILL
+                                                                                                                          KANE
+      AGGREGATE EXTENSION  2019 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV         166,917,611,547       TOTAL        166,917,611,547
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                         0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 003  BONDS & INTEREST                        259,871,339       267,667,479      0.0000  267,667,479    0.160359                267,667,479   0.160359
+                                                7,796,140
+ 043  COUNTY HIGHWAY                                    0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 044  HEALTH & HOSPITAL COMM.                  72,704,917        74,953,523      0.0000   74,953,523    0.044905                 74,953,523   0.044905
+                                                2,248,606
+ 065  CAPITAL IMPROVEMENT                      20,000,000        20,618,557      0.0000   20,618,557    0.012353                 20,618,557   0.012353
+                                                  618,557
+ 127  EMPLOYEE A & B                          165,006,964       169,957,173      0.0000  169,957,173    0.101821                169,957,173   0.101821
+                                                4,950,209
+ 160  PUBLIC BUILDING COMM RENTAL 1                     0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 170  PUBLIC BUILDING COMM                              0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 178  CORP. NOTES                                       0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 212  COUNTY HIGHWAY NOTES                              0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 213  HEALTH & HOSP. COMM. NOTES                        0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 243  PUBLIC SAFETY                           217,678,612       224,410,940      0.0000  224,410,940    0.134444                224,410,940   0.134444
+                                                6,732,328
+ 244  PUBLIC SAFETY NOTES                               0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 266  PUBLIC BUILDING COMMISSION-AUDIE HOME             0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 269  DEMAND NOTES                                      0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+
+
+
+ 
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/29/20       TAX YEAR 2019                AGENCY TAX RATE REPORT
+                                                                                                                                           2019 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV      158,584,064,770       COOK COUNTY  166,917,611,547
+ AGENCY 01-0010-000 COUNTY OF COOK                                CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP  1,932,032,386       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL             160,516,097,156       WILL
+                                                                                                                          KANE
+      AGGREGATE EXTENSION  2019 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV         166,917,611,547       TOTAL        166,917,611,547
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 271  ELECTION                                          0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+ 272  ELECTION NOTES                                    0                 0      0.0000            0    0.000000                          0   0.000000
+                                                        0
+
+ AGENCY GRAND TOTAL                                             757,607,672              757,607,672       0.454                757,607,672      0.454
+
+
+                                                                                                   2019 TAX EXTENSION GRAND TOTAL     757,805,956.42

@@ -1,0 +1,43 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/29/20       TAX YEAR 2019                AGENCY TAX RATE REPORT
+                                                                                                                                           2019 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV        1,072,879,071       COOK COUNTY    1,078,388,054
+ AGENCY 02-0270-000 TOWN STICKNEY                                 CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      6,288,611       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL               1,079,167,682       WILL
+                                                                                                                          KANE
+ 2017 AGGREGATE EXTENSION  2019 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0190         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+          6,146,239       /    1,072,099,443          =      0.574                                                        KENDALL
+                                                                                                                          LA SALLE
+ CONNECTING 02-0270-002  GENERAL ASSISTANCE STICKNEY                                                                      LIVINGSTON
+ AGENCIES   02-0270-004  STICKNEY PUBLIC HEALTH DISTRICT
+                                                                         AGENCY OVERALL EAV           1,078,388,054       TOTAL          1,078,388,054
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 NO REDUCTION   COOK COUNTY
+ 001  CORPORATE                                 2,505,273         2,505,273      0.2500    2,505,273      0.2323                  2,505,273     0.2323
+                                                        0
+ 008  I.M.R.F.                                    148,750           148,750      0.0000      148,750      0.0138                    148,750     0.0138
+                                                        0
+ 016  SOCIAL SECURITY                             175,000           175,000      0.0000      175,000      0.0162                    175,000     0.0162
+                                                        0
+ 018  AUDITING                                          0    3            0      0.0050            0      0.0000                          0     0.0000
+                                                        0
+ 019  LIABILITY INSURANCE                         455,000           455,000      0.0000      455,000      0.0422                    455,000     0.0422
+                                                        0
+
+
+ TOTAL CAP FUNDS                                                  3,284,023                3,284,023       0.305                  3,284,023      0.305
+ TOTAL NON CAP FUNDS                                                      0                        0      0.0000                          0     0.0000
+
+ AGENCY GRAND TOTAL                                               3,284,023                3,284,023       0.305                  3,284,023      0.305
+
+
+                                                                                                   2019 TAX EXTENSION GRAND TOTAL       3,289,083.56

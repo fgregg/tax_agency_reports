@@ -1,0 +1,49 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/29/20       TAX YEAR 2019                AGENCY TAX RATE REPORT
+                                                                                                                                           2019 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV               31,486       COOK COUNTY           31,486
+ AGENCY 05-0370-000 FRANKFORT PARK DISTRICT                       CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP              0       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                      31,486       WILL             802,623,553
+                                                                                                                          KANE
+ 2018 AGGREGATE EXTENSION  2019 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 1.0190         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+          1,374,351       /      789,414,773          =      0.175                                                        KENDALL
+                                                                                                                          LA SALLE
+                                                                                                                          LIVINGSTON
+
+                                                                         AGENCY OVERALL EAV             802,655,039       TOTAL            802,655,039
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                 SEE  BELOW     COOK COUNTY
+ 001  CORPORATE                                 1,470,000    3    1,514,100      0.3500    1,514,100      0.1886    1,338,025*    1,338,025     0.1667
+                                                   44,100
+ 003  BONDS & INTEREST                                  0    5            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 008  I.M.R.F.                                      1,000    3        1,030      0.0000        1,030      0.0001             *            0     0.0000
+                                                       30
+ 018  AUDITING                                      1,000    3        1,030      0.0050        1,030      0.0001             *            0     0.0000
+                                                       30
+ 019  LIABILITY INSURANCE                          70,000    3       72,100      0.0000       72,100      0.0090       64,212*       64,212     0.0080
+                                                    2,100
+ 020  RECREATION                                    2,000    3        2,060      0.3700        2,060      0.0003             *            0     0.0000
+                                                       60
+ 202  HANDICAPPED FUND                            325,000    3      334,750      0.0400      321,062      0.0400                    321,062     0.0400
+                                                    9,750
+ 400  LIMITED BONDS                               114,680    5      120,414      0.0000      120,414      0.0150                    120,414     0.0150
+                                                    5,734
+
+
+ TOTAL CAP FUNDS                                                  1,590,320                1,590,320       0.199    1,402,237     1,402,237      0.175
+ TOTAL NON CAP FUNDS                                                455,164                  441,476      0.0550                    441,476     0.0550
+
+ AGENCY GRAND TOTAL                                               2,045,484                2,031,796       0.254    1,402,237     1,843,713      0.230
+                                                                                                                    AGENCY'S REDUCTION
+
+                                        2019 NON CAP FUNDS TAX EXTENSION TOTAL              17.32  2019 TAX EXTENSION GRAND TOTAL              72.42

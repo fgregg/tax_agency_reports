@@ -1,0 +1,57 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/29/20       TAX YEAR 2019                AGENCY TAX RATE REPORT
+                                                                                                                                           2019 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          789,997,489       COOK COUNTY      936,405,983
+ AGENCY 03-1110-000 CITY OF   ROLLING MEADOWS                     CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      3,933,604       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 793,931,093       WILL
+                                                                                                                          KANE
+ 2018 AGGREGATE EXTENSION  2019 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-1110-001  CITY OF ROLLING MEADOWS LIBRARY FUND                                                             LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV             936,405,983       TOTAL            936,405,983
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                         0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 003  BONDS & INTEREST                            946,533    5      993,860      0.0000      993,860      0.1061                    993,860     0.1061
+                                                   47,327
+ 006  POLICE PENSION                            3,600,000    3    3,708,000      0.0000    3,708,000      0.3960                  3,708,000     0.3960
+                                                  108,000
+ 007  FIRE PENSION                              4,380,000    3    4,511,400      0.0000    4,511,400      0.4818                  4,511,400     0.4818
+                                                  131,400
+ 008  I.M.R.F.                                    900,000    3      927,000      0.0000      927,000      0.0990                    927,000     0.0990
+                                                   27,000
+ 009  STREET & BRIDGE                           1,187,002    3    1,222,612      0.0000    1,222,612      0.1306                  1,222,612     0.1306
+                                                   35,610
+ 013  FIRE PROTECTION                           1,511,946    3    1,557,304      0.0000    1,557,304      0.1663                  1,557,304     0.1663
+                                                   45,358
+ 014  POLICE PROTECTION                         1,511,946    3    1,557,304      0.0000    1,557,304      0.1663                  1,557,304     0.1663
+                                                   45,358
+ 015  CIVIL DEFENSE                               700,000    3      721,000      0.0000      721,000      0.0770                    721,000     0.0770
+                                                   21,000
+ 018  AUDITING                                          0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 023  CROSSING GUARDS                                   0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 027  PURCHASE AGREEMENT                                0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 028  MENTAL HEALTH                                     0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 065  CAPITAL IMPROVEMENT                               0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+ AGENCY GRAND TOTAL                                              15,198,480               15,198,480       1.624                 15,198,480      1.624
+
+
+                                                                                                   2019 TAX EXTENSION GRAND TOTAL      15,207,233.16

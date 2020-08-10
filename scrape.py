@@ -101,7 +101,7 @@ class TaxAgencyScraper(ASPXScraper):
 
     def scrape(self) -> Generator[str, None, None]:
 
-        for year in range(2018, 2005, -1):
+        for year in range(2019, 2005, -1):
             for report_type in self.REPORT_TYPE:
                 yield from self.search(year, report_type)  # type: ignore
 
@@ -111,7 +111,7 @@ if __name__ == '__main__':
     from pathlib import Path
 
     scraper = TaxAgencyScraper()
-    for year in range(2018, 2005, -1):
+    for year in range(2019, 2017, -1):
         year_path = Path('./' + str(year))
         year_path.mkdir(exist_ok=True)
         for report in scraper.search(year, 'agency rate'):

@@ -1,0 +1,91 @@
+
+
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/29/20       TAX YEAR 2019                AGENCY TAX RATE REPORT
+                                                                                                                                           2019 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          320,068,660       COOK COUNTY      403,454,254
+ AGENCY 03-1160-000 VILLAGE OF   SCHILLER PARK                    CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      1,111,516       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 321,180,176       WILL
+                                                                                                                          KANE
+ 2018 AGGREGATE EXTENSION  2019 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-1160-001  VILLAGE OF SCHILLER PARK LIBRARY FUND                                                            LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV             403,454,254       TOTAL            403,454,254
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 001  CORPORATE                                 3,245,439    3    3,342,802      0.0000    3,342,802      0.8285                  3,342,802     0.8285
+                                                   97,363
+ 003  BONDS & INTEREST                            378,646    5      397,578      0.0000      397,578      0.0985                    397,578     0.0985
+                                                   18,932
+ 004  GARBAGE                                     632,220    3      651,187      0.0000      651,187      0.1614                    651,187     0.1614
+                                                   18,967
+ 006  POLICE PENSION                            2,138,437    3    2,202,590      0.0000    2,202,590      0.5459                  2,202,590     0.5459
+                                                   64,153
+ 007  FIRE PENSION                              1,277,182    3    1,315,497      0.0000    1,315,497      0.3261                  1,315,497     0.3261
+                                                   38,315
+ 008  I.M.R.F.                                          0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 009  STREET & BRIDGE                                   0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 010  PUBLIC BENEFIT                                    0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 011  PLAY GROUNDS & REC                          346,519    3      356,915      0.0000      356,915      0.0885                    356,915     0.0885
+                                                   10,396
+ 013  FIRE PROTECTION                             244,224    3      251,551      0.0000      251,551      0.0623                    251,551     0.0623
+                                                    7,327
+ 014  POLICE PROTECTION                           244,224    3      251,551      0.0000      251,551      0.0623                    251,551     0.0623
+                                                    7,327
+ 015  CIVIL DEFENSE                                     0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 016  SOCIAL SECURITY                                   0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 017  BONDS & INTEREST                                  0                 0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 019  LIABILITY INSURANCE                               0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+
+
+ 
+ CLRTM539-A                                                     OFFICE OF THE COUNTY CLERK
+
+ DATE 06/29/20       TAX YEAR 2019                AGENCY TAX RATE REPORT
+                                                                                                                                           2019 EAV
+                                                                    PRIOR YEAR COOK COUNTY EAV          320,068,660       COOK COUNTY      403,454,254
+ AGENCY 03-1160-000 VILLAGE OF   SCHILLER PARK                    CURR NEW PROP, ANNX., REC. TIF VAL,                     DUPAGE
+                                                               EXP. INCENTIVES MINUS DISCONNECT PROP      1,111,516       LAKE
+ PROPERTY TAX EXTENSION LIMITING LAW (PTELL) LIMITING RATE CALCULATION            TOTAL                 321,180,176       WILL
+                                                                                                                          KANE
+ 2018 AGGREGATE EXTENSION  2019 EAV MINUS NEW PROP, ANNX.,                                                                MCHENRY
+          X 0.0000         REC TIF VAL, EXP. INCENTIVES                                                                   DEKALB
+                                 PLUS DISCONNECTIONS                                                                      GRUNDY
+                                                          LIMITING RATE                                                   KANKAKEE
+                                                                                                                          KENDALL
+              HOME RULE AGENCY OR PTELL NOT APPLICABLE                                                                    LA SALLE
+ CONNECTING 03-1160-001  VILLAGE OF SCHILLER PARK LIBRARY FUND                                                            LIVINGSTON
+ AGENCIES
+                                                                         AGENCY OVERALL EAV             403,454,254       TOTAL            403,454,254
+
+                                              LEVY AMOUNT LOSS   TOTAL LEVY    TAX RATE    MAXIMUM   PRELIMINARY      PTELL     100.00% OF   FINAL TAX
+ FUND DESCRIPTION OF FUND                     LOSS AMOUNT  %                    CEILING   ALLOWABLE    TAX RATE   REDUCED LEVY   BURDEN IN      RATE
+                                                                                            LEVY                                COOK COUNTY
+ 022  STREET LIGHTING                                   0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+ 202  HANDICAPPED FUND                             91,932    3       94,690      0.0000       94,690      0.0235                     94,690     0.0235
+                                                    2,758
+ 404  FIRE PENSION-P.A. 93-0689 CONTRIBUTION            0    3            0      0.0000            0      0.0000                          0     0.0000
+                                                        0
+
+ AGENCY GRAND TOTAL                                               8,864,361                8,864,361       2.197                  8,864,361      2.197
+
+
+                                                                                                   2019 TAX EXTENSION GRAND TOTAL       8,863,889.96
